@@ -1,0 +1,46 @@
+share: true
+aliases:
+  Armand
+gender: male
+race: human
+age: old
+alignment: 
+background: politician
+location: 
+faction: "The High Council of Midkip"
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Armand Gorrel
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Armand|
+| Race| human |
+| Gender| male|
+| Age | old|
+| Alignment|| 
+| Background| politician|
+| Location|  |
+| Faction| [The High Council of Midkip| 
+Description
+Armand is the mayor of Lykos District and the district's representative in The High Council of Midkip.
+Relationships
+Story log
+Most Recent
+Session 14: Inside The Weeping WIllow, the party meets four representatives from four noble families of Midkip: Armand Gorrel, a human of Lykos; Djorken Veegar, a red dragonborn hailing from Drakon, Gandour Ironfleet from Chtapodhi, and Janna Furwish from Aetos. Kirren and Arc are also present here.
+Session 14: Armand Gorrel admits that his son might be a member of The Cult of Miledu.
+Session 15: In the morning, Armand Gorrel comes by The Weeping WIllow in need of help.
+Session 15: Armand Gorrel reports that there was a werewolf attack in Lykos.
+Session 16: The party sneaks into Armand Gorrel's house to investigate.
+
+All Entries
+Session 14: Inside The Weeping WIllow, the party meets four representatives from four noble families of Midkip: Armand Gorrel, a human of Lykos; Djorken Veegar, a red dragonborn hailing from Drakon, Gandour Ironfleet from Chtapodhi, and Janna Furwish from Aetos. Kirren and Arc are also present here.
+Session 14: Armand Gorrel admits that his son might be a member of The Cult of Miledu.
+Session 15: In the morning, Armand Gorrel comes by The Weeping WIllow in need of help.
+Session 15: Armand Gorrel reports that there was a werewolf attack in Lykos.
+Session 16: The party sneaks into Armand Gorrel's house to investigate.
+

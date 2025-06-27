@@ -1,0 +1,41 @@
+share: true
+aliases:
+  Josh
+gender: male
+race: human
+age: young adult
+alignment: 
+background: gladiator
+location: "[Wycroft Mountain Kingdom]]"
+faction: "[[Wycroft Gladiators]]"
+status: 
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Josiah Rendle
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Josh|
+| Race| human |
+| Gender| male|
+| Age | young adult|
+| Alignment|| 
+| Background| gladiator|
+| Location|  [Wycroft Mountain Kingdom|
+| Faction| Wycroft Gladiators| 
+Description
+Josh is a slender, agile man with
+Relationships
+Story Log
+Most Recent
+Session 53: The towering human, who introduces himself as Josh, flirts with Noah. Josh asks Noah about Yvernus. Noah claims to have little idea about it. Upon Noah's asking, Josh reveals that he is from the northern Kippian, hailing from Yorkel Forest.
+Session 55: During the fight, the other workers gather and cheer Rex, the man who is fighting Noah. Noah eventually surrenders. Josh, who was cheering Noah, administers basic aid and comforts Noah.
+Session 55: Along the way, Noah sees Flavius and Josh following her. She learns that the two are also going to the Ironfleet Compound. Noah walks on the other side of the road.
+
+All Entries
+Session 53: The towering human, who introduces himself as Josh, flirts with Noah. Josh asks Noah about Yvernus. Noah claims to have little idea about it. Upon Noah's asking, Josh reveals that he is from the northern Kippian, hailing from Yorkel Forest.
+Session 55: During the fight, the other workers gather and cheer Rex, the man who is fighting Noah. Noah eventually surrenders. Josh, who was cheering Noah, administers basic aid and comforts Noah.
+Session 55: Along the way, Noah sees Flavius and Josh following her. She learns that the two are also going to the Ironfleet Compound. Noah walks on the other side of the road.

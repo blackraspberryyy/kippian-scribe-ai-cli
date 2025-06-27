@@ -1,0 +1,41 @@
+share: true
+aliases:
+  Duospathia
+location: "[Midkip]]"
+status: 
+lore_type: location
+icon: map
+Basic Information
+[!infobox]
+Duospathia District
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Duospathia|
+| Located in | [Midkip|
+Description
+Duospathia is the district where the United Kippian Military is housed and trained. 
+
+The Randall Clan oversees the military district. Mitarella Randall serves not only as the district's representative to the High Council but also as the King's most trusted advisor.
+Notable Locations
+| Name                                                                                                    |
+| ------------------------------------------------------------------------------------------------------- |
+| Arena of the Dueling Swords                     |
+| Duospathia District Hall                           |
+| Duospathia Smithing Guild Compound       |
+| Spathian Library and Military Academy |
+| Spathian Mithril Refinery                         |
+| Temple of the War Gods                               |
+
+Notable NPCs
+| Name                                             |
+| ------------------------------------------------ |
+| Malvin Randall       |
+| Michaela Randall   |
+| Mitarella Randall |
+
+Factions
+| Name |
+| ---- |
+

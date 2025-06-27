@@ -1,0 +1,69 @@
+share: true
+aliases:
+  Rickard
+gender: male
+race: human
+age: middle-aged adult
+alignment: 
+background: noble
+location: "Ankyra"
+faction: "The Cult of Miledu"
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Rickard Kyp
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Rickard|
+| Race| human |
+| Gender| male|
+| Age | middle-aged adult|
+| Alignment|| 
+| Background| noble|
+| Location|  [Ankyra District|
+| Faction| The Cult of Miledu| 
+Description
+Rickard is the youngest of the two sons of King Riordan. Rickard appears to be aloof and follows the lead of his older brother.
+
+As the younger brother of Remus, Rickard has little chance of being the Kingdom of United Kippian. Yet Rickard covets the throne. This jealousy led Rickard to be in league with The Cult of Miledu. Rickard appears in the Theater Incident as the representative wearing Ankyra's ring.
+
+During the party's investigations of the Death of King Riordan, Rickard is revealed to be the assassin of King Riordan. He used the Aureate Rapier to kill the King.
+Relationships
+Rickard is the son of King Riordan and brother of Remus Kyp.
+Story log
+Most Recent
+Session 33: The party interrogates Rickard; Theobald casts Zone of Truth. Michaela and Mitarella succeed the check. Kirren, Remus, and Rickard fails.
+Session 33: Rickard reveals that the cult's goal is to "untether" Yvernus from Midkip.
+Session 41: The party identifies the two of the three interlopers, Elvin Claymore and Rickard Kyp.
+Session 44: Party shares details about the Scepter of Akenatun, including those who claimed it: Elvin and Rickard; they could not identify the other one.
+Session 47: Raveena is placed inside her cell. As they were about to go out, Rickard shouts and laughs mockingly:
+"It's about time now! You won't have to wait long..."
+Session 47: Raveena reveals the masterminds of the cult are Roldan, Rickard and Elvin.
+Session 47: Rickard is revealed to be Raveena's recruiter.
+Session 47: The party decides to lock up Raveena in [Ankyra District|Ankyra]], where [Rickard and Malvin are also jailed.
+Session 49: Elvin releases the last 200 civilians. Mitarella releases Rickard. Rickard mockingly spits at Mitarella's direction:
+"The royals of Midkip do not negotiate."
+Session 49: Elvin casts a large portal in front of Adikia and Mitarella. The two back off. Raveena, Malvin and Rickard rush into the portal, but the dragon stops them. The dragon and Elvin must enter first.
+
+All Entries
+Session 31: Remus Kyp shares that he also suspected his brother, Rickard Kyp. Now that he has evidence and motive, he allows the party to subdue Rickard Kyp, but in a manner still befitting a royal.
+Session 32: Party enters the tower to confront Rickard Kyp.
+Session 32: Party confronts Rickard Kyp.
+Session 32: The party captures Rickard Kyp.
+Session 33: Noah, Kirren, and Michaela finds Kiris, who caught Rickard, falling from the air.
+Session 33: The party interrogates Rickard; Theobald casts Zone of Truth. Michaela and Mitarella succeed the check. Kirren, Remus, and Rickard fails.
+Session 33: Rickard reveals that the cult's goal is to "untether" Yvernus from Midkip.
+Session 41: The party identifies the two of the three interlopers, Elvin Claymore and Rickard Kyp.
+Session 44: Party shares details about the Scepter of Akenatun, including those who claimed it: Elvin and Rickard; they could not identify the other one.
+Session 47: Raveena reveals the masterminds of the cult are Roldan, Rickard and Elvin.
+Session 47: Rickard is revealed to be Raveena's recruiter.
+Session 47: The party decides to lock up Raveena in [Ankyra District|Ankyra]], where [Rickard and Malvin are also jailed.
+Session 47: Raveena is placed inside her cell. As they were about to go out, Rickard shouts and laughs mockingly:
+"It's about time now! You won't have to wait long..."
+Session 49: Elvin releases the last 200 civilians. Mitarella releases Rickard. Rickard mockingly spits at Mitarella's direction:
+"The royals of Midkip do not negotiate."
+Session 49: Elvin casts a large portal in front of Adikia and Mitarella. The two back off. Raveena, Malvin and Rickard rush into the portal, but the dragon stops them. The dragon and Elvin must enter first.

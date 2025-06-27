@@ -1,0 +1,272 @@
+share: true
+aliases:
+  Party
+  party
+location: "[Midkip]]"
+status: active
+lore_type: faction
+icon: player
+Information
+[!infobox]
+Seven Up...
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Aliases | Party,party|
+| Status| active|
+| Current Location|  [Midkip|
+Known for:
+Description
+Organization
+Leader:
+Known Members
+| Name                                                    |
+| ------------------------------------------------------- |
+| Adeena Oberon                 |
+| Arc                                     |
+| Adikia Unalome               |
+| Astar                      |
+| Nokia                      |
+| Kiris Acquermann           |
+| Noah Skie                         |
+| Spraugh 'Splix' Calix |
+| Theobald Clayhollow     |
+| Thoradin Goodman           |
+
+Goals
+ ] Task 1
+Story log
+Most Recent
+[Session 51: Backed into a corner, the sphinx collapses the structure. The party attempts to escape.
+Session 51: The party realizes that the Bloated Dragon is nowhere to be found.
+Session 52: The party wakes up to find three griffons circling the sandbar. Upon checking, they spot a Giant Anemone trying to eat a dead griffon.
+Session 52: The party is threatened by the Giant Anemone. They successfully kill it, and they disperse the opportunistic griffons.
+Session 52: The party is stuck on the sandbar. The cold northern winds stop them from resting.
+Session 52: The party uses torches, rations, and arrows to create a bonfire. The party uses a stabling mechanism from Thoradin's Shield, ropes, and Theobald's Immovable Rod to raise it from the rising seawater.
+Session 52: Adikia casts Polymorph again to refresh its duration. The party lands on the coast 10 miles from [Midkip|Midkip]].
+[Session 52: Along the way, the party spots the Bloated Dragon. They manage to catch its attention, thanks to a loud roar from Dorfir Embersense.
+Session 52: The Bloated Dragon descends, and Gandour Ironfleet meets them. He explains that the party was gone for nearly two days. The party concludes that entering the Library must have induced another temporal anomaly.
+Session 52: The party notices that Gandour is hiding something. Gandour, upon being questioned, tells the party that they must not judge him. They ascend on the Bloated Dragon's lower deck and see Janna Furwish waiting for them.
+"Lucky that you are all alive..."
+
+All Entries
+Session 1: Ridnor visits Bulkip and informs the party of the house arrangements
+Session 1: Yekora assassins vs Eladrin assassin vs party
+Session 2: Party successfully defendsBulkip from undead
+Session 3: Party gets back to Ankor
+Session 3: Party meets Elijah Orstadt.
+Session 3: Party restocks their supplies.
+Session 4: Party meets Ezzane Meistrun
+!quote|mark(Ezzane%20Meistrun.md)
+Something terrible is happening in Midkip. The earthquake started there. Nos needs help.
+If you heard any reports from Bulwicke...
+Ryla is in control of Curkip for now. Alie serves as her secretary, and our spy.
+Someone is trying to find you Adeena, be careful.
+Feypeak? Now that’s a name I have not heard for a long while…
+Session 4: Party rides along a caravan back to Bulkip.
+Session 4: Party is ambshed by bulletes
+Session 5: Party sees renovated gates
+Session 5: Roldan Vinke invites the party to the Bulwicke Heroes' Ball
+Session 5: The party is set up to be heroes aligned with The Cult of Miledu.
+Session 6: Followers of Yekora attack The Cult of Miledu and the party after the theater play
+Session 6: Ridnor returns to the manor while the party goes to [Midkip](../../Session%207.md): Party enters The Veiled Woods
+Session 7: Olrac messages the party:
+!quote|mark(Olrac.md)
+What happened in Bulkip? Intel says the road to Midkip is treacherous. Nos needs help; find him in Lykos District.
+Session 7: Party responds:
+!quote|mark(Seven%20Up....md)
+Framed by Miledu. Cult of Miledu all around Bulkip and Midkip. Eight noble families included. Going to Hilkor then to Midkip. Help us enter Midkip.
+Session 7: Party responds:
+!quote|mark(Seven%20Up....md)
+Are we wanted in Midkip? We are going to the Veiled Woods. Once in Midkip, how to get in? Help us get in. Please.
+Session 8: Party arrives in Lykos District.
+Session 8: The party made contact with Aldus, the guard captain of Lykos District.
+Session 8: The party enters The Weeping WIllow.
+Session 8: The party meets Augustus, named after Agustus Kyp.
+Session 8: The party hears rumors of dragon attacks in Midkor, Vonkor, and Walkor.
+Session 9: Party detects a series of underground detonations originating from the wall separating Yvernus and Lykos.
+Session 9: Three Annatars attack the party
+Session 10: The party explores Yvernus.
+Session 10: The party sees no people. Creatures are frozen in time.
+Session 10: The party travels into the Temple of The Sealed Path.
+Session 10: The party fights Theodore Clayhollow.
+Session 11: The party wakes up. They enter the Plane of Dragons.
+Session 11: The party faces Ezius, a dragon borne of the void.
+Session 12: Kirren and Nos saves the party. They wake up at The Weeping WIllow.
+Session 12: Kirren gifted the party with a 10,000 gp allowance.
+Session 12: The party travels to Duospathia to buy weapons and armor.
+Session 12: The party bought three sketchy potions of invisibility.
+Session 13: The party tries to enter the Spathian Library and Military Academy, but they require special passes from the district mayor.
+Session 13: The party went back to Duospathia District Hall to ask for a pass.
+Session 13: The party talks to Michaela, the district mayor. She allows the party to enter the library under the condition of being escorted by some guards.
+Session 13: The party meets with Jocasta Randall, the librarian. The party reads to gain information.
+Session 14: On the way back to The Weeping WIllow, an agent of Yekora confronts the party.
+Session 14: Inside The Weeping WIllow, the party meets four representatives from four noble families of [Midkip|Midkip]]: [Armand Gorrel, a human of Lykos; Djorken Veegar, a red dragonborn hailing from Drakon, Gandour Ironfleet from Chtapodhi, and Janna Furwish from Aetos. Kirren and Arc are also present here.
+Session 14: The party casts a Zone of Truth as they interrogate the four representatives.
+Session 15: The party investigates the attack in the afternoon.
+Session 15: The party plans to hunt the werewolves during the night.
+Session 16: The party sneaks into Armand Gorrel's house to investigate.
+Session 16: The party tracks the werewolves to Eastern Lykos.
+Session 16: The party fights Jarran Gorrel.
+Session 17: Janna Furwish visits the party and asks them to investigate about a lead regarding a Furwish Miledu supporter, Auriel Furwish.
+Session 18: The party delves into the dungeon.
+Session 19: Auriel Furwish attacks the party.
+Session 20: [Midkip|Midelia]]'s elven retinue captures the [party.
+Session 31: Party exits from the Labyrinthus
+Session 31: Party takes a long rest.
+Session 31: Party wakes up. Arc, Noah and Kirren is not in the quarters.
+Session 31: Party follows the royal guards to the dining hall.
+Session 31: Party finds Remus in his quarters.
+!quote|mark] Remus
+Someone broke into the royal chambers... The guards are not saying anything. I'm... I'm worried...
+[Session 31: Party waits to hear the news inside the dining hall
+Session 31: Party enters the royal chambers
+Session 31: Mitarella meets Thoradin in the party's quarters.
+Session 31: Mitarella asks Thoradin to join the party.
+Session 31: The party investigates the King's death. !desc
+Session 31: Splix realizes that the party is not allured by the Aureate Rapier wielded by Remus Kyp.
+Session 31: Party mentions the noble rings of Bulkip.
+Session 32: Arc met the party.
+Session 32: Arc is interrogated by the party.
+Session 32: Kayvan talks to the party.
+Session 32: Party enters the tower to confront Rickard Kyp.
+Session 32: Party confronts Rickard Kyp.
+Session 32: The party captures Rickard Kyp.
+Session 33: The party takes a short rest.
+Session 33: The party finds Mitarella and Remus.
+Session 35: The party uses the Arcanus Labyrinthus to enter the Labyrinthus.
+Session 35: The party defeats three golems.
+Session 36: The party is joined by Theobald.
+Session 38: Splix is still experiencing a protracted vision... Other members of the party left him to explore the dungeon.
+Session 38: After inserting the tourmaline resistance gem, the party is shown a vision of Spekid Frostborn during the war.
+Session 38: The party encounters a dangerous, Extraplanar Mink.
+Session 38: Before the party defeats it, the mink burrows to recuperate.
+Session 39: The party defeats the Extraplanar Mink.
+Session 39: The party takes a long rest.
+Session 39: The party encounters a door with the following inscription:
+Beyond these doors are Guardians of Ice and Fire. Constructed by the great mages, Zagi and Spekid, these constructs guard the hallowed hall within...
+Session 39: The party fights and defeats the Guardians of Ice and Fire, with relative ease...
+Session 40: Party encounters and defeats the actual Guardians of Ice and Fire.
+Session 41: The party explores the dungeon after their long rest.
+Session 41: The offering allows the party access to the vault in front of the altar. However, the vault is already looted.
+Session 41: The party finds the Hall of Akenatun.
+Session 41: Upon their exit, a Shadow Knight confronts the party.
+Session 41: The party stops the Shadow Knight from being hostile.
+Session 41: The nameless Shadow Knight talks to the party.
+Arc shows the Twilight Dagger to the Shadow Knight.
+"That weapon owes its power from the Plane of Shadows"
+Session 41: The party identifies the two of the three interlopers, Elvin Claymore and Rickard Kyp.
+Session 41: Apparitions of Zerrus Zagi and Spekid Frostborn appears in front of the party.
+Session 42: Party takes a long rest inside the Labyrinthus.
+Session 42: The party incurs temporal displacement sickness. Theobald, Arc and Adeena are more affected by the sickness.
+Session 42: The party, except Noah, drinks a tea fashioned from the ginger where The First Tree grew. It is a traditional drink honoring Antasha, goddess of the land.
+Session 42: The party plans a meeting with the group within the Ironfleet Compound. The party invites Mitarella, Michaela, Kirren, Kayvan and Remus.
+Session 42: As the Noah steps out of the Ankyra's Old Castle Compound, the party hears a whistle and the sound of detonation originating from the Ironfleet Compound.
+Session 42: Thoradin bursts into action and rides a steed. The party rides a closed carriage pulled by two horses. Theobald drives the carriage.
+Session 42: During their frantic run, Thoradin is hit by a crossbow bolt. A hidden assailant attacks Thoradin, stopping the party from their tracks.
+Session 42: During the encounter, the party determines that the assailant is Kayriel Acquermann.
+Session 42: The party traps Kayriel inside the carriage.
+Session 43: The party, minus Adeena, rushes to the compound.
+Session 43: The party decides to confront Kayriel.
+Session 44: The party enters the Ironfleet Compound and talks to Gandour.
+Session 44: The party sees the servants, workers and guards all stressed and fatigued.
+Session 44: Party shares details about the Scepter of Akenatun, including those who claimed it: Elvin and Rickard; they could not identify the other one.
+Session 44: The party is unsure about Kayriel's affiliation: is he a spy for Kippian, a servant of Frederick, or a member of The Cult of Miledu?
+Session 44: Stumped on the identity of the holder of the Acquermann ring they found in the Theater Incident, the party recollects their thoughts.
+Session 44: The party excluded Kayriel and Korvin as the Acquermann member of The Cult of Miledu.
+Session 45: Arc tries to track the Dusk Talon assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. Arc leaves 10 Seven Up...
+Session 45: The party takes a long rest.
+Session 45: The party wakes up, but Noah is still missing.
+Session 45: Djorken knocks on the party's room and gives Adeena a letter.
+Session 45: Djorken tells the party that he received the letter from a guard.
+Session 45: Djorken imparts that Mitarella, Remus and Kirren will return back to Ankyra's Old Castle Compound after lunch. He expects the party to attend the lunch.
+Session 45: Adeena discloses that she plans to go alone later. She and the party discusses a plan of action.
+Session 45: Michaela asks if Noah's disappearances is normal. Adikia says yes, and she must not be concerned. Michaela tells Adikia that the party can ask for her help in finding Noah.
+Session 45: The party prepares for Adeena's excursion. Kayvan, Kiris and Arc will observe the meeting.
+Session 45: Adeena could not find Kayriel. Hours go by and the party waits.
+Session 45: Meanwhile, Kayvan, Kiris, and Arc attempt to follow Adeena, but to no avail. In the end, they go back to the compound to enlist the party's help.
+Session 45: Regarding The Cult of Miledu, Kayriel is as clueless as the party. He mentions that he has knowledge of the Theater Incident since a follower from the Order of Yekora told it to him.
+Session 45: Adeena meets the party as they were about to find her.
+Session 46: Djorken asks for the party's help. He asks the party to quell the Malandar Rebellion.
+Session 46: The Drakon party surveys the residents of the district about political matters. The informed residents are split; half supports the industrialization proposed by the Malandar Rebellion, while the other half deems that the district's agricultural tradition must be upheld.
+Session 46: The Drakon party travels to an Drakon Amphitheater where there is a political rally being held. The rally is for Raveena Malandar.
+Session 46: Kiris assumes Raveena Malandar's identity. He goes back to the Drakon Amphitheater as Raveena and without speaking, announces her leave to the guards. Kiris then messages the Drakon party to meet him and Arc at a specific place within Drakon.
+Session 46: The Drakon party saw Arc and Kiris carrying Raveena who is bound and unconscious. Djorken is startled, but Kiris manages to convince him that this is the best course to take. Djorken reluctantly agrees, and shares his knowledge of a less-traveled route back to the Ironfleet Compound that would attract the least attention.
+Session 46: The Drakon party carries Raveena Malandar back to the Ironfleet Compound.
+Session 46: The Ankyra party travels to the Ankyra's Old Castle Compound to gather information. They meet Kirren and she directs them to the library.
+Session 46: The Ankyra party travels back to the Ironfleet Compound. There, they meet the Drakon party accompanying the captured Raveena Malandar.
+Session 47: The party decides to postpone the interrogation tomorrow.
+Session 47: The party takes a long rest.
+Session 47: The party wakes up.
+Session 47: The party interrogates Raveena.
+Session 47: The party is about to hurt Raveena, but Djorken interjects. He tells Adikia that they can use her to quell the Malandar Rebellion.
+Session 47: The party decides to lock up Raveena in Ankyra, where Rickard and Malvin are also jailed.
+Session 47: The party travels to Ankyra. During their travel, Theobald and Thoradin have a sincere talk regarding faith.
+Session 47: Splix splits away from the party to research with Professor Aufel.
+Session 47: The party talks to the guards and Michaela about their worries. Michaela assures them that keeping them in one location saves resources and time, which the party badly needs.
+Session 47: The party decides to head back to the Ironfleet Compound. Splix stays in Ankyra to research.
+Session 48: The party takes a long rest.
+Session 48: Adeena shares the problem with the party. The party plans on checking the northwestern coast for some blacksand later in the day.
+Session 48: The party, minus Kiris and Splix, rides on a boat. Their boat tugs a smaller boat containing digging tools and some empty barrels. The party, upon exiting the river's mouth, follows the western coastline.
+Session 48: Upon resurfacing, the party sees traces of blacksand on both Adikia and Noah. Adeena gives her trinket to Noah and asks her to investigate.
+Session 48: Noah is pulled below the water. Adikia attempts to save Noah, but to no avail. Adikia asks for the party's help using telepathy.
+Session 48: The party is washed ashore; Thoradin draws the inhaled seawater from Adikia's lungs.
+Session 48: The party confronts a blacksand-based creature. Arc, and later the other members of the party, ascertains that the blacksand combusts explosively. The explosion was too strong that the sound it produced reaches Kiris.
+Session 48: The party lost material things, including Theobald's adventure diary and Adikia's violin. Moreover, they fail to retrieve blacksand. Adeena fortunately did not lose her stuff due to being submerged underwater during the explosion.
+Session 48: The party decides to walk back to the Ironfleet Compound. Thoradin casts Find Steed, and he and Noah rushes back.
+Session 49: The party meets with Gandour, Kirren, Kayvan Djorken, Nos-Aji, and Olrac.
+Session 49: The party asks for help regarding Nokia being petrified. Gandour mentions a cleric from Foenyx might do the job.
+Session 49: The party asks how many people can the airship hold. Gandour tells them that the airship can have 20 to 50 crew members.
+Session 49: After the dinner, the party decides to rest.
+Session 49: The party takes a long rest.
+Session 49: Adikia wakes up before dawn. She wakes the party, but only Adeena, Theobald and Arc decide to accompany her.
+Session 49: The party meets Adikia. They enter the chapel, which turns out to be the Chapel of Amlin.
+Session 49: Back in Ironfleet Compound, Noah, Kiris and Thoradin wake up and find the other members of their party gone.
+Session 50: Gandour and the party decide to continue the trial run of the airship later in the afternoon. He asks the party to suggest some names for the airship. To make things more interesting (and uplift the party's spirits), Gandour holds a naming competition of the airship.
+Session 50: The party inspects the Bloated Dragon's decks.
+Session 50: Just as the party is about to ride the Bloated Dragon, Splix returns bearing a message from Savras University about Professor Embersense's location. Professor Embersense and his apprentice, Fiamil, are currently researching an ancient structure resurfacing from the sea. Splix suggests a destination to Gandour, and the latter accepts.
+Session 50: For the test flight, the party is accompanied by Gandour and two engineers.
+Session 50: The flight proves uneventful, which was good news to the party. However, the Bloated Dragon is slow.
+Session 50: Upon arriving at the destination, Gandour and the party could not find the ruins. Splix uses a spyglass to check for ruins; he finds a shallow sandbar that they can land on.
+Session 50: Thoradin sees an abnormal phenomenon: the seawater rising like a hill. The party checks and sees that the hill is actually the roof of a marble structure. Upon investigating, Kiris confirms that the magic must have been cast on the structure to hide it.
+Session 50: The party descends the fifteen-foot rise and comes to see the structure's doors. In front of it is an arena with 8x8 checkered squares. On it are broken chess pieces. The party cannot enter the arena as it is enveloped by a magical force field.
+Session 50: The party reads the inscription on the door:
+THE QUEEN'S GAMBIT
+TO ENTER MY LIBRARY, YOU MUST FIRST DEFEAT ME
+IN A BATTLE BETWEEN LIGHT AND DARK;
+MY QUEEN WILL PLAY FOR THE LIGHT OF KNOWLEDGE,
+AND YOUR KING SHOULD CHOOSE YOUR DARKENED KNIGHTS.
+LET YOUR KNIGHTS RETRIEVE THE DARKENED BLADES,
+SO YOUR KING HAS A SWORD CROWN TO BEAR;
+ONLY THEN YOU CAN ENTER THE SQUARED BATTLEFIELD
+AND UNDERTAKE MY PRECARIOUS DARE.
+YOUR DEFEAT WILL YIELD DEMISE
+SO YOUR KNIGHTS MUST PROFESS THEIR MIGHT.
+IF YOU WIN, I’LL PERMIT YOU TO RISE,
+AND THY DARKENED SOULS I WOULD ENLIGHT.
+Session 50: Each member of the party except Kiris spots a Darkened Blade underneath the sands.
+Session 50: The party solves the puzzle and finds the Darkened Crown. Kiris wears the Darkened crown.
+Session 50: Kiris enters the arena; other members of the party can now enter as well.
+Session 50: The party defeats the queen piece and they solve the game. The ancient structure's doors open.
+Session 51: The party enters and see a dated Library. The shelves are filled with scrolls, but they use primordial script.
+Session 51: Splix casts Comprehend Languages. Other members of the party explore the Library.
+Session 51: Adikia and Adeena investigates the statue on the northeastern part of the Library that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. Adeena thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the party encountered Auriel Furwish in Calyxius' lair.
+Session 51: The party meets Dorfir Embersense and Fiamil Underwood. The party updates the two on what happened during the two weeks they are researching inside the Library.
+Session 51: Adeena asks Dorfir Embersense about a spell that could protect the Bloated Dragon from magical attacks. Dorfir Embersense recalls that an artifact of sorts protects Asteri District. The party informs him that the district is devastated during the Assault on Asteri.
+Session 51: The party checks the pillars. The two riddles are now blank; only the third riddle remains.
+Session 51: Theobald solves the last riddle. A hole appears on the floor and the party is sucked into it. Dorfir remains on the floor.
+Session 51: The party meets a decaying, seemingly undead sphinx. They see the unconscious bodies of Splix and Fiamil on the ground.
+Session 51: The sphinx asks each member of the party to exchange their Mythic Items for their freedom.
+Session 51: Unwilling to give up their items, the party fights the sphinx.
+Session 51: Backed into a corner, the sphinx collapses the structure. The party attempts to escape.
+Session 51: The party realizes that the Bloated Dragon is nowhere to be found.
+Session 52: The party is stuck on the sandbar. The cold northern winds stop them from resting.
+Session 52: The party uses torches, rations, and arrows to create a bonfire. The party uses a stabling mechanism from Thoradin's Shield, ropes, and Theobald's Immovable Rod to raise it from the rising seawater.
+Session 52: The party wakes up to find three griffons circling the sandbar. Upon checking, they spot a Giant Anemone trying to eat a dead griffon.
+Session 52: The party is threatened by the Giant Anemone. They successfully kill it, and they disperse the opportunistic griffons.
+Session 52: Adikia casts Polymorph again to refresh its duration. The party lands on the coast 10 miles from [Midkip|Midkip]].
+[Session 52: Along the way, the party spots the Bloated Dragon. They manage to catch its attention, thanks to a loud roar from Dorfir Embersense.
+Session 52: The Bloated Dragon descends, and Gandour Ironfleet meets them. He explains that the party was gone for nearly two days. The party concludes that entering the Library must have induced another temporal anomaly.
+Session 52: The party notices that Gandour is hiding something. Gandour, upon being questioned, tells the party that they must not judge him. They ascend on the Bloated Dragon's lower deck and see Janna Furwish waiting for them.
+"Lucky that you are all alive..."

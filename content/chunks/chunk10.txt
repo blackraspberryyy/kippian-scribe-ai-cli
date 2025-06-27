@@ -1,0 +1,28 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Savras
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for: being the God of Divination
+Description
+Lore Mentions
+Most Recent
+[Session 47: Splix writes a letter to be sent to Savras University.
+Session 50: Just as the party is about to ride the Bloated Dragon, Splix returns bearing a message from Savras University about Professor Embersense's location. Professor Embersense and his apprentice, Fiamil, are currently researching an ancient structure resurfacing from the sea. Splix suggests a destination to Gandour, and the latter accepts.
+
+All Entries
+Session 47: Splix writes a letter to be sent to Savras University.
+Session 50: Just as the party is about to ride the Bloated Dragon, Splix returns bearing a message from Savras University about Professor Embersense's location. Professor Embersense and his apprentice, Fiamil, are currently researching an ancient structure resurfacing from the sea. Splix suggests a destination to Gandour, and the latter accepts.

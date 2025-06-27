@@ -1,0 +1,25 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Age of Civilization
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for:
+Description
+The first age of the [Eon of Akenatun's Descent.
+Lore Mentions
+Most Recent
+
+All Entries

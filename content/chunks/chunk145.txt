@@ -1,0 +1,77 @@
+share: true
+aliases:
+  Spekid
+  Frost Sorcerer
+gender: 
+race: 
+age: 
+alignment: 
+background: sorcerer
+location: "Stonethorn Mountains"
+faction: 
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Spekid Frostborn
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Spekid,Frost Sorcerer|
+| Race|  |
+| Gender| |
+| Age | |
+| Alignment|| 
+| Background| sorcerer|
+| Location|  [Stonethorn Mountains|
+| Faction| | 
+Description
+Little is known about the early life of the Frost Sorcerer, Spekid Frostborn. Covered in layers of thick winter clothes, those who saw him were not even sure about the mystic's physical traits. No part of his body was exposed, no unfounded idea came forth from his mouth, and no attention did he pay to the unworthy; naturally those who met him for the first time were equally bewildered and anxious. But his actions during The Great War and unwavering loyalty to the King earned him his place as the sole representation of the people of the Stonethorn Mountains to the King's war council.
+Keeper of the Frostborn Armor
+Spekid Frostborn crafted the Frostborn Armor, the enchanted armor he wore during The Great War. The armor conjured hardened ice which protected him from any type of physical harm. During army confrontations, it was common for Spekid to wander into the battlefield with no preparation, and come back to the camp seemingly unscathed. Still, his colleagues wonder what is colder: the ice-conjuring armor or the masked mystic.
+Legacy
+The eighth month, Spekid, is named after Spekid Frostborn.
+Lore Mentions
+Excerpt from Engor's Diary
+A strange man came. He said, in his ever-chilling voice, that he came from the frozen north, in the deadly mountains of Stonethorn. The mysterious man wears a thick bear pelt, yet today is one hot summer day. His glum mask finishes his daring outfit. I’ll spare you the details of my inquiries, but assuredly his unabashed appearance caught me off guard. Here’s a stranger who seeks war, and not away from it. I’d have let him had he entered the army’s arcanists, but he stubbornly refused. He wants to meet the king. But to not draw his mask? A royal guard, getting as impatient as I was, closed in and warned the stranger. He did not budge. Several warnings ensued, followed by the royal guards forming a circle around him. I did not stop them, yet if I had known what would happen I should have spared them the embarrassment.
+
+The guards thrusted their spears into his puffed chest. At the moment of impact, that targeted part of the hide armor became covered in hardened ice. The guards could not strike him; even attempts to hit him where the armor ends were blocked by a conjured shield-like ice. Attacking him was fruitless, and I was left with no choice.
+
+Here is a man, from the wicked north, with astonishing frost magic. This man is asking to serve and to die for a matter that does not concern him. The King, who was understandably angered by this unwelcome intrusion, later in the day met me with a grateful tone, for he now commands a loyal sorcerer that he deems “as hard as ice, both in nature and in power."
+–a diary entry from Engor, the king’s scribe
+Story Log
+Most Recent
+Session 38: In a vision, Spekid Frostborn appears to Kiris.
+The serious sorcerer evokes a mild chuckle,
+"I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+Then, Spekid draws the sigil of the Northern Frost on Kiris' forehead. He then doffs the Frostborn Armor.
+"But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and Zerrus Zagi's power."
+Session 38: After inserting the tourmaline resistance gem, the party is shown a vision of Spekid Frostborn during the war.
+Session 38: After turning the dial, they see the vision of Spekid Frostborn fighting Zerrus Zagi in the arena.
+Session 39: The party encounters a door with the following inscription:
+Beyond these doors are Guardians of Ice and Fire. Constructed by the great mages, Zagi and Spekid, these constructs guard the hallowed hall within...
+Session 40: Theobald finds some notes detailing the construction of the Guardians of Ice and Fire by Zerrus Zagi and Spekid Frostborn.
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the Hall of Akenatun from the labyrinthus.
+Session 40: Arc discovers the statue that tells the discovery of the Scepter of Akenatun by Zerrus Zagi and Spekid Frostborn.
+Session 41: Apparitions of Zerrus Zagi and Spekid Frostborn appears in front of the party.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."
+
+All Entries
+Session 38: In a vision, Spekid Frostborn appears to Kiris.
+The serious sorcerer evokes a mild chuckle,
+"I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+Then, Spekid draws the sigil of the Northern Frost on Kiris' forehead. He then doffs the Frostborn Armor.
+"But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and Zerrus Zagi's power."
+Session 38: After inserting the tourmaline resistance gem, the party is shown a vision of Spekid Frostborn during the war.
+Session 38: After turning the dial, they see the vision of Spekid Frostborn fighting Zerrus Zagi in the arena.
+Session 39: The party encounters a door with the following inscription:
+Beyond these doors are Guardians of Ice and Fire. Constructed by the great mages, Zagi and Spekid, these constructs guard the hallowed hall within...
+Session 40: Theobald finds some notes detailing the construction of the Guardians of Ice and Fire by Zerrus Zagi and Spekid Frostborn.
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the Hall of Akenatun from the labyrinthus.
+Session 40: Arc discovers the statue that tells the discovery of the Scepter of Akenatun by Zerrus Zagi and Spekid Frostborn.
+Session 41: Apparitions of Zerrus Zagi and Spekid Frostborn appears in front of the party.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."

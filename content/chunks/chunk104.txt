@@ -1,0 +1,31 @@
+share: true
+aliases:
+  Plane of Shadows
+location: 
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Shadowfell
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Plane of Shadows|
+| Type | 
+| Located in | |
+Known for:
+Description
+Notable Locations
+| Name                                            |
+| ----------------------------------------------- |
+| [Labyrinthus |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

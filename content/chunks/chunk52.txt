@@ -1,0 +1,30 @@
+share: true
+aliases: 
+location: "[Shadowfell]]"
+status: 
+lore_type: location
+icon: map
+Basic Information
+[!infobox]
+Labyrinthus
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Shadowfell|
+Known for:
+Description
+Notable Locations
+| Name                                                          |
+| ------------------------------------------------------------- |
+| Hall of Akenatun |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

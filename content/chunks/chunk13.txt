@@ -1,0 +1,26 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Antasha
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for: being the Goddess of the Land
+Description
+Lore Mentions
+Most Recent
+[Session 42: The party, except Noah, drinks a tea fashioned from the ginger where The First Tree grew. It is a traditional drink honoring Antasha, goddess of the land.
+
+All Entries
+Session 42: The party, except Noah, drinks a tea fashioned from the ginger where The First Tree grew. It is a traditional drink honoring Antasha, goddess of the land.

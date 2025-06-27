@@ -1,0 +1,44 @@
+share: true
+aliases:
+  Kwonyr
+  Queen of Rogues
+  Mistress of Shadows
+gender: female
+race: half-elf
+age: adult
+alignment: 
+background: rogue
+location: "[Kingdom of United Kippian]]"
+faction: 
+status: dead
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Kwonyr Karst
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Kwonyr,Queen of Rogues,Mistress of Shadows|
+| Race| half-elf |
+| Gender| female|
+| Age | adult|
+| Alignment|| 
+| Background| rogue|
+| Location|  [Kingdom of United Kippian|
+| Faction| | 
+Description
+During the far-reaching events of The Great War, the half-elven rogue Kwonyr developed a legendary notoriety among rogues. The Queen of Rogues employed her reputation not to gather riches, but to safeguard women during the war. It was due to her notorious deeds that innocent women were relatively unharmed during the war. The name Kwonyr still strikes fear into the hearts of even the most dangerous men.
+Keeper of the Twilight Dagger
+Kwonyr became attuned with the powers of Shadowfell through the Twilight Dagger. It is said that she sends her crepuscular dagger to notorious abusers—a declaration nothing short of a death sentence. The dagger, it seems, always finds a way back to its mistress.
+Legacy
+The fifth month, Kwonyr, is named after Kwonyr Karst.
+Lore Mentions
+Excerpt from Infamous: Dangerous Rogues
+Kwonyr, the self-proclaimed Queen of Rogues, wielded the Twilight Dagger during her reign. Accounts of those lucky enough to escape Kwonyr report that the dagger is a separate, malevolent entity: the dagger was the manifestation of the shadows, and through it Kwonyr became master of the dark.
+–excerpt from Infamous: Dangerous Rogues
+Story Log
+Most Recent
+
+All Entries

@@ -1,0 +1,158 @@
+share: true
+aliases:
+  Adikia
+gender: female
+race: elf
+age: middle-aged
+alignment: 
+background: bard
+location: 
+status: 
+faction: "[Seven Up...]]"
+icon: player
+Bio
+[!infobox]
+Adikia Unalome
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Adikia|
+| Race| elf |
+| Gender| female|
+| Age | middle-aged|
+| Alignment|| 
+| Background| bard|
+| Location|  |
+| Faction| [Seven Up...| 
+Known for: being a chaotic bard
+Description
+Class: Bard
+Subclass: Mage of Lorehold
+Backstory
+
+The very first memory that Adikia Unalome still remembers was the bustling streets of Vaiarshe. With it are the hard facts of her life: wearing a crappy shirt with holes that are awful to wear during extreme weathers, stealing food from both the vendors and their customers, and living in a small box she called home. Adikia never knew her heritage and it did not matter to her; all she minds is her survival. During her pastimes, however, she developed a knack for music, a talent which she used to earn coins from entertained elves.
+
+Her talent was noticed by two good-natured elves who run an inn in Vaiarshe. At first Adikia rebuffed the gratitude given to her unconditionally but she eventually cave in. Idril and Poldo Bluedrin took her in, clothed her and gave her a bed to sleep on. The old couple also gave her a job initially as a cleaner, but when they discovered her enchanting play of the lute they asked her to play for the customers of the inn. She practiced and learned new songs. In her free time she held street performances that were on par with the visiting musicians and poets and playmakers. “She is meant to be a bard,” a crowd would cheer at one of her performances. She became a local attraction in an instant and drew an audience whenever and wherever she performed.
+
+Adikia’s mood swings were changing like the weather, and at times it seemed literal. On hot summer days she is mostly hotheaded; during autumn she becomes a bit generous; winter nights bore her to no end; and on spring days she is as jolly as a crazed follower of Faif. 
+
+Through the years her greed and indifference got the better of her and she started having arguments with some of the inn’s customers and her street audience. There were several things: accusations of thieving which were not baseless, arrogant remarks that resulted in verbal contests, weekly fistfights, and even the occasional duels. In fact, there once was a murder allegation against Adikia. She and an elf who mocked her fought in a duel, according to some shady witnesses. Adikia kept her mouth shut while Idril and Poldo backed her and gave positive testimony. It was overturned mostly due to a lack of evidence, but the mysterious disappearance of the other duelist did not help Adikia in rehabilitating her reputation.
+
+Years go by and Adikia’s popularity faded substantially. Her earnings were reduced too as she mainly performed only at the inn. Idril and Poldo were still supportive of her and, fitting for a daughter, provided her with a small yet hospitable dwelling near the couple. On her 18th birthday (that is, on the 18th year after the day the couple had found her), the Bluedrins gifted her an ornately designed violin, designed and built by an elven woodsmith. The violin, which she named “Vionna”, became Adikia’s most prized possession.
+
+As a gift to herself, she asked the old couple to allow her to travel for a while. The Bluedrins eventually relented and Adikia toured Ephelus. She performed at the towns and cities and the crowd received her mightily, as her prowess with her violin became more polished and more charming. Her visual appearance also helped Adikia to stand out from the mostly elvish throngs: her slender limbs and youthful color added to her already exquisite performance. There still was a bit of misconduct here and there, but it was mostly ignored as she was gone the following day. Her fame in the areas she visited sharply rose and harshly fell as the waves on the Bay of Lostwind.
+
+A year and a half passed and Adikia longed for the Bluedrins. Excited about the new pieces of tunes she wrote, Adikia wanted the couple to hear her play the violin. As the inn was within eyeshot, Adikia sensed something wrong. At that moment Adikia recognized a fear she had not known: the death of her adoptive parents. The inn had been ravaged and looted just recently and it left Adikia no choice but to step in and hope that Idril and Poldo were still alive. She entered through the windows and through the rubble of broken glass and disarranged chairs and tables Adikia noticed a scoundrel pilfering for valuables on the opposite side of the room. Adikia’s rage bubbled and she chanted a verse she never knew. A misty haze covered her then, in the blink of an eye, she was thrusting a rapier through the frightened elf. With no remorse, she looked at him with bitter eyes and let him bleed out.
+
+Adikia soon found the cold body of her parents. The large window pane in the backroom of the inn was broken from inside out; and the chilly winter wind penetrated the small room and froze the two dead bodies clinging to each other. Adikia felt shame and regret that she was not here to protect them. 
+
+Nearby, the wall was laden with strange yet familiar inscriptions. She took note of them and read it:
+
+The winterborn of Corleus is always at war
+with the summerborn of Soliven.
+You should never feel safe
+in this realm that you escaped to.
+You cannot hide forever in the light, princess.
+
+Adikia could not recognize for whom the message, but she intuited that it was for her. “Winterborn, summerborn…”, these words describe the race of The Eladrin, a near mythical house of elves that were believed to be extinct and only resided in myths and songs that Adikia regularly plays. When she considered her newfound power, her slightly different stature and color with respect to the Ephelian elves, she pondered: was she from the famed elven race of the The Eladrin, the descendants of the goddess Ela? If that is so, could it be that she really is a princess? Or is this all a case of mistaken identity, many of such instances have happened to her before?
+
+There was no time to think as she heard the local guards traversing the snow, closing in on the inn. Adikia gave her parents one last kiss, bolted out of the inn through the broken window and was never seen again in Vaiarshe.
+
+Adikia vowed to learn more about herself and her lineage, and to avenge the death of her parents, both of which took the same path. Like the subject of the bardic myths from Azir, an Ephelian hero, Adikia trusted fate to lead her to her goals. Days later, from a sustenance of cheap wine and even cheaper rations, Adikia found herself on the southern outskirts of the United Kippian. Fate has guided Adikia to this place and, as celebration for her new life mission, she decided to take a sip of good wine at Richie's Tavern.
+Relationships
+Family
+Adoptive parents: Idril and Poldo Bluedrin
+Musical instrument: Vionna
+Story log
+Most Recent
+Session 50: The librarian catches a glimpse of Adikia and Adeena, and she asks them to return the abjuration tome for Adikia's bow. Adeena returns the tome and Adikia receives the bow.
+Session 50: Adikia remembers losing her violin that was gifted to her by her adoptive parents. She also remembered her parents' deaths.
+Session 50: Theobald, Adeena and Adikia return to the Ironfleet Compound on their steeds.
+Session 51: Adikia and Adeena investigates the statue on the northeastern part of the Library that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. Adeena thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the [Seven Up...|party]] encountered [Auriel Furwish in Calyxius' lair.
+Session 51: Adikia asks Dorfir Embersense about Feypeak. Dorfir Embersense only recounts information that Adikia already knows.
+Session 51: Adikia successfully offers only a piece of her Aureate Rapier.
+Session 52: Adikia casts Animal Messenger to relay a message to Gandour Ironfleet.
+Session 52: Adikia proposes to Polymorph Adeena into a sperm whale. Dorfir Embersense and Fiamil Underwood excitedly agree.
+Session 52: Adikia casts Polymorph again to refresh its duration. The [Seven Up...|party]] lands on the coast 10 miles from [Midkip.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.
+
+All Entries
+Session 13: Adikia read a book detailing the Feywild. She learns the following:
+Session 13: Adikia enters a vision: She saw that Feypeak was somewhere in the east.
+Session 29: Adikia uses Speak with the Dead to question
+Session 32: Adikia retrieves the Aureate Rapier.
+Session 34: Remus Kyp "gives" the Aureate Rapier to Adikia.
+Session 34: Adikia, Adeena, Theobald, Arc and Thoradin enters the Arcanus Labyrinthus.
+Session 38: Nokia, Adikia's eagle, and companion, asks her to search the dungeon for a thing.
+Session 39: Adikia sees a statue; inside it is Nokia, which turns into her ancient companion.
+Session 40: Adikia investigates the statue. She sees the following inscription:
+Fashioned from the hall's stone golems, the Guardians of Ice and Fire are immune to most magic.
+Session 41: Adikia perceives Noah appearing into existence.
+Session 41: Splix, Adeena, Adikia, Noah and Kiris finds an altar for Akenatun.
+Session 41: Splix offers 25 gp. Noah offers 2 gp. Kiris offers an Amulet of Undead. Adeena offers her magical earring. Adikia offers a chipped gold from the Aureate Rapier.
+Session 41: Adikia asks the Shadow Knight about Feypeak.
+Session 41: The Shadow Knight assures Adikia that the portal to the Feywild exists.
+Session 41: Adikia asks the casters about Feypeak.
+"As an Eladrin, the Feywild is your home. It is sure that you will find your way back to the Feywild."
+Session 41: Adikia asks the casters about the lore of her Aureate Rapier.
+"The Aureate Rapier was a ceremonial rapier passed down to the heirs of United Kippian. Its hidden power is made known only through Prince Azir's daring adventures."
+Session 42: During the traditional intermission, Mitarella talks to Adikia, Theobald, and Kiris.
+Session 42: Thoradin asks Adikia to read the inscriptions on his Vambrace Shields.
+From Wycroft, To Quigymara.
+Session 43: Adikia rushes forwards and attempts to grab the man. Adikia fails; however, she figures out that the man Adeena is surrendering to is Kayriel, or at least resembles its face.
+Session 44: Adikia casts Speak with Plants to talk to a flower belonging in a flower patch just outside the compound.
+Session 44: Adikia casts Detect Thoughts, but the two really forgot about the man's name.
+Session 45: Adikia exits the Ironfleet Compound and wanders the area. She lost 14 gp as she trips from an overgrown root.
+Session 45: Adikia sees Arc covered in soot. Adikia laughs at him; annoyed, Arc looks at his surroundings, and spots a lizard tail wading underneath Chtapodhi's canal waters.
+Session 45: Adikia tracks the guard who gave Djorken the letter.
+Session 45: Adikia finds the guard and listens first to his stories. The guard explains that he received a boon last night. He and his wife received 10 sp from an anonymous intruder.
+Session 45: Adikia interrogates the guard about the letter; the guard claims that he received the letter at his desk as he entered his post this early morning.
+Session 45: Adikia asks Michaela about Noah's whereabouts. Michaela says that they parted late last night.
+Session 45: Michaela asks if Noah's disappearances is normal. Adikia says yes, and she must not be concerned. Michaela tells Adikia that the [Seven Up...|party]] can ask for her help in finding [Noah.
+Session 46: Adikia meets Djorken discussing political matters with a group of disgruntled rural folk from Drakon. They are clamoring for stability during these uncertain times.
+Session 46: Djorken asks Adikia to help him calm the people. Adikia performs and successfully calms the people. Djorken explains the situation and promises to ask for help in resolving the political matter.
+Session 46: Adikia, Adeena and Splix plan to go to the Ankyra's Old Castle Compound and search for ways to create a magical barrier.
+Session 46: Adikia scans the library for any reference of Eladrins and Feypeak, but to no avail.
+Session 46: Adikia trades the bow of her violin for the reference book.
+Session 47: The [Seven Up...|party]] is about to hurt [Raveena, but Djorken interjects. He tells Adikia that they can use her to quell the Malandar Rebellion.
+Session 47: Adeena and Adikia talks to Mitarella regarding Raveena; the regent breathes a sigh of relief. Mitarella assigns Michaela to lead them to the dungeon.
+Session 47: Kiris and Adikia inspects the airship. Kiris is in awe of the airship; Adikia sees casters experimenting on abjuration magic.
+Session 48: Adeena, Noah, and Adikia help the airship workers. Adeena notices that the airship's cannon deck desperately lacks gloompowder.
+Session 48: After being an hour away from the Midkip, Adikia played a prank on the party by seemingly getting drowned. Noah attempted to rescue Adikia. It appears that the water at that point is just human-neck high.
+Session 48: Upon resurfacing, the [Seven Up...|party]] sees traces of blacksand on both [Adikia and Noah. Adeena gives her trinket to Noah and asks her to investigate.
+Session 48: Noah is pulled below the water. Adikia attempts to save Noah, but to no avail. Adikia asks for the [Seven Up...|party]]'s help using telepathy.
+[Session 48: The [Seven Up...|party]] is washed ashore; [Thoradin draws the inhaled seawater from Adikia's lungs.
+Session 48: The [Seven Up...|party]] lost material things, including [Theobald's adventure diary and Adikia's violin. Moreover, they fail to retrieve blacksand. Adeena fortunately did not lose her stuff due to being submerged underwater during the explosion.
+Session 48: Adikia finds Nokia but it is turned into cracked stone statue. Theobald casts Stone Shape to mend the cracks.
+Session 48: Adikia, Theobald, Adeena and Arc arrives at the Ironfleet Compound. They meet Kirren and Gandour who are talking in the courtyard. Adikia, frustrated about Nokia, walks away from the conversation.
+Session 49: Theobald recalls that a Greater Restoration spell can heal petrification. Adikia decides to go to Foenyx first day in the morning.
+Session 49: Adikia wakes up before dawn. She wakes the [Seven Up...|party]], but only [Adeena, Theobald and Arc decide to accompany her.
+Session 49: Adikia, Adeena, Theobald, and Arc go to Foenyx. With Theobald guiding them, they arrive at the chapel at Roan Street. However, the chapel is closed still. Arc, Adeena and Theobald separately check the district as Adikia stays on a bench by the chapel doors.
+Session 49: Adeena feels a wave of dark magic emanating from the southwest. She hurries back to Adikia and the others to warn them.
+Session 49: The [Seven Up...|party]] meets [Adikia. They enter the chapel, which turns out to be the Chapel of Amlin.
+Session 49: Adikia asks Father Drenn to heal Nokia's petrification. Father Drenn obliges, but only if they pay for the service, the cost of which is 110 gp. The 100 gp is for the diamond dust to be consumed by the spell.
+Session 49: Adikia willingly agrees. Father Drenn exits to a room behind the altar and appears with the dust.
+Session 49: Adeena, Arc, Adikia and Theobald return to Ironfleet Compound. Theobald, Adikia and Adeena decide to go to check on the dragon appearing in Ankyra's Old Castle Compound.
+Session 49: Adeena, Adikia and Theobald arrives at the Ankyra's Old Castle Compound. Theobald helps the civilians. Adeena approaches Remus and Splix, and Adikia walks to Mitarella.
+Session 49: Elvin mocks Adikia. He then casts Thaumaturgy to make his voice loud. He warns those in the compound:
+"I am the herald of doom, and your doom is at hand."
+Session 49: Elvin casts a large portal in front of Adikia and Mitarella. The two back off. Raveena, Malvin and Rickard rush into the portal, but the dragon stops them. The dragon and Elvin must enter first.
+Session 49: Splix casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but Elvin persuades the dragon not to worry about it as it poses no threat. Elvin mocks the party. Adikia is irate; sensing a provocation, Mitarella coaxes Adikia:
+"Let them have this day."
+Session 49: The portal grows large enough for the dragon to enter. Elvin utters the following words to Adikia:
+"We will meet again... But you will meet them no more!"
+Session 49: Adikia sees a figure jumping down from the wall. The figure turns out to be Kayriel; he is trying to enter the portal. He fires three bolts into the portal.
+Session 49: Sensing an opening, Adikia uses her Fey Step ability to support Kayriel. The two attempt to enter the diminishing portal.
+Session 49: Kayriel and Adikia fail to enter the portal. Kayriel is caught by the portal and breaks down into water.
+Session 50: Theobald, Adeena and Adikia plan to return back to Ironfleet Compound. As they pass by the library, they see Splix researching.
+Session 50: The librarian catches a glimpse of Adikia and Adeena, and she asks them to return the abjuration tome for Adikia's bow. Adeena returns the tome and Adikia receives the bow.
+Session 50: Adikia remembers losing her violin that was gifted to her by her adoptive parents. She also remembered her parents' deaths.
+Session 50: Theobald, Adeena and Adikia return to the Ironfleet Compound on their steeds.
+Session 51: Adikia and Adeena investigates the statue on the northeastern part of the Library that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. Adeena thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the [Seven Up...|party]] encountered [Auriel Furwish in Calyxius' lair.
+Session 51: Adikia asks Dorfir Embersense about Feypeak. Dorfir Embersense only recounts information that Adikia already knows.
+Session 51: Adikia successfully offers only a piece of her Aureate Rapier.
+Session 52: Adikia casts Animal Messenger to relay a message to Gandour Ironfleet.
+Session 52: Adikia proposes to Polymorph Adeena into a sperm whale. Dorfir Embersense and Fiamil Underwood excitedly agree.
+Session 52: Adikia casts Polymorph again to refresh its duration. The [Seven Up...|party]] lands on the coast 10 miles from [Midkip.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.

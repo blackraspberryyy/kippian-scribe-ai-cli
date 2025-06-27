@@ -1,0 +1,42 @@
+share: true
+aliases:
+  Order of Yekora
+location: "[Sumber]]"
+status: active
+lore_type: faction
+icon: faction
+Information
+[!infobox]
+Followers of Yekora
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Aliases | Order of Yekora|
+| Status| active|
+| Based in|  [Sumber|
+Known for:
+Description
+Organization
+Leader:
+Known Members
+| Name                                           |
+| ---------------------------------------------- |
+| Frederick Oberon |
+
+Goals
+ ] Task 1
+Story log
+Most Recent
+[Session 44: Kayriel infiltrated the Order of Yekora and became Frederick's right-hand man. His cover name is Candor. Adeena attests to this fact.
+Session 44: The assassin divulges that the Order of Yekora is behind the attacks on the Ironfleet Compound.
+Session 45: Adeena finds a marking on the nearby wall. She remembers that it is a Yekora's Spy Code utilized by the Order of Yekora. She follows the trail.
+Session 45: Regarding The Cult of Miledu, Kayriel is as clueless as the party. He mentions that he has knowledge of the Theater Incident since a follower from the Order of Yekora told it to him.
+Session 45: Adeena asks if it is safe to tell all this with the Dusk Talon assassins hearing them. Kayriel replies that the Dusk Talons' loyalty lies with him, and not the Order of Yekora.
+
+All Entries
+Session 44: The assassin divulges that the Order of Yekora is behind the attacks on the Ironfleet Compound.
+Session 44: Kayriel infiltrated the Order of Yekora and became Frederick's right-hand man. His cover name is Candor. Adeena attests to this fact.
+Session 45: Adeena finds a marking on the nearby wall. She remembers that it is a Yekora's Spy Code utilized by the Order of Yekora. She follows the trail.
+Session 45: Adeena asks if it is safe to tell all this with the Dusk Talon assassins hearing them. Kayriel replies that the Dusk Talons' loyalty lies with him, and not the Order of Yekora.
+Session 45: Regarding The Cult of Miledu, Kayriel is as clueless as the party. He mentions that he has knowledge of the Theater Incident since a follower from the Order of Yekora told it to him.

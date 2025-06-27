@@ -1,0 +1,75 @@
+share: true
+aliases:
+  Remus
+gender: nonbinary
+race: human
+age: middle-aged
+alignment: 
+background: 
+location: "[Ankyra District]]"
+faction: "[[The High Council of Midkip]]"
+status: 
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Remus Kyp
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Remus|
+| Race| human |
+| Gender| nonbinary|
+| Age | middle-aged|
+| Alignment|| 
+| Background| |
+| Location|  [Ankyra District|
+| Faction| The High Council of Midkip| 
+Description
+Remus is the heir prince to United Kippian.
+Relationships
+King Riordan's son
+Rickard Kyp's older sibling
+Story log
+Most Recent
+Session 49: Mitarella heads back and consults with Remus.
+Session 49: Michaela appears, and she votes not to exchange prisoners. Mitarella is leaning to agree on the man's proposal. Remus remains undecided.
+Session 49: Splix agrees with Mitarella. This pushes Remus to exchange their prisoners for the civilians of Yvernus.
+Session 49: Adeena, Adikia and Theobald arrives at the Ankyra's Old Castle Compound. Theobald helps the civilians. Adeena approaches Remus and Splix, and Adikia walks to Mitarella.
+Session 49: Mitarella breaks down, and Remus is horrified by what transpired.
+Session 53: The retinue from [Ankyra District|Ankyra]] arrives. The carriage contains [Kirren, Mitarella, Michaela and Remus.
+Session 53: Remus and Kirren clarifies Janna's justification of her acts. Janna exposes that the Kyp Clan is weak, leaving only an unprepared prince to lead United Kippian. Janna also criticizes the Acquermann Clan, saying that there is no present leader. She dismisses Kayvan, claiming that the child, in spite of his wisdom, is still inexperienced. Janna hopes that the people of United Kippian welcome elven leadership.
+Session 53: Remus removes Janna from the room. Remus proposes to keep Janna in Ankyra's Old Castle's dungeons. He addresses the party, asking what they would do.
+Session 53: The party asks Remus to supply Adikia with material components for her Legend Lore spell. Gandour provides Adikia with incense worth 1250 gp. Remus gives Adikia an IOU slip for ivory strips worth 1000 gp.
+Session 53: The two find a store. They successfully persuade the shopkeeper, Geraldt, to trade Remus' IOU slip for the ivory strips, a harp, a violin, and some strings. The two add 1 sp and a chipped gold from the Aureate Rapier to balance the deal.
+
+All Entries
+Session 31: Party finds Remus in his quarters.
+!quote|mark] Remus
+Someone broke into the royal chambers... The guards are not saying anything. I'm... I'm worried...
+[Session 31: Remus Kyp distrusts the royal guards
+Session 31: Mitarella and Remus cried.
+Session 31: Theobald casts Zone of Truth. Mitarella, Remus Kyp, and 4 royal guards.
+Session 31: Splix realizes that the party is not allured by the Aureate Rapier wielded by Remus Kyp.
+Session 31: Remus Kyp breaks down and realizes that the sword he wields is but a replica of the Aureate Rapier.
+Session 31: Remus Kyp forgot that he left the Aureate Rapier with the King last night.
+Session 31: Remus Kyp shares that he also suspected his brother, Rickard Kyp. Now that he has evidence and motive, he allows the party to subdue Rickard Kyp, but in a manner still befitting a royal.
+Session 33: The party finds Mitarella and Remus.
+Session 33: The party interrogates Rickard; Theobald casts Zone of Truth. Michaela and Mitarella succeed the check. Kirren, Remus, and Rickard fails.
+Session 34: Remus Kyp "gives" the Aureate Rapier to Adikia.
+Session 42: The party plans a meeting with the group within the Ironfleet Compound. The party invites Mitarella, Michaela, Kirren, Kayvan and Remus.
+Session 44: Nokia alerts Mitarella, Michaela, Kayvan, Remus and Kirren.
+Session 45: Djorken imparts that Mitarella, Remus and Kirren will return back to Ankyra's Old Castle Compound after lunch. He expects the party to attend the lunch.
+Session 45: Mitarella, Kirren and Remus bid their goodbye and return to Ankyra's Old Castle Compound.
+Session 49: Splix sees Mitarella and Remus exiting the castle to check on the situation. Mitarella approaches the intruders. Splix stays within earshot of the regent.
+Session 49: Mitarella heads back and consults with Remus.
+Session 49: Michaela appears, and she votes not to exchange prisoners. Mitarella is leaning to agree on the man's proposal. Remus remains undecided.
+Session 49: Splix agrees with Mitarella. This pushes Remus to exchange their prisoners for the civilians of Yvernus.
+Session 49: Adeena, Adikia and Theobald arrives at the Ankyra's Old Castle Compound. Theobald helps the civilians. Adeena approaches Remus and Splix, and Adikia walks to Mitarella.
+Session 49: Mitarella breaks down, and Remus is horrified by what transpired.
+Session 53: The retinue from [Ankyra District|Ankyra]] arrives. The carriage contains [Kirren, Mitarella, Michaela and Remus.
+Session 53: Remus and Kirren clarifies Janna's justification of her acts. Janna exposes that the Kyp Clan is weak, leaving only an unprepared prince to lead United Kippian. Janna also criticizes the Acquermann Clan, saying that there is no present leader. She dismisses Kayvan, claiming that the child, in spite of his wisdom, is still inexperienced. Janna hopes that the people of United Kippian welcome elven leadership.
+Session 53: Remus removes Janna from the room. Remus proposes to keep Janna in Ankyra's Old Castle's dungeons. He addresses the party, asking what they would do.
+Session 53: The party asks Remus to supply Adikia with material components for her Legend Lore spell. Gandour provides Adikia with incense worth 1250 gp. Remus gives Adikia an IOU slip for ivory strips worth 1000 gp.
+Session 53: The two find a store. They successfully persuade the shopkeeper, Geraldt, to trade Remus' IOU slip for the ivory strips, a harp, a violin, and some strings. The two add 1 sp and a chipped gold from the Aureate Rapier to balance the deal.

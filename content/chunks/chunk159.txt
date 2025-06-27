@@ -1,0 +1,38 @@
+share: true
+aliases:
+  Daria
+gender: female
+race: halfling
+age: adult
+alignment: 
+background: 
+location: "[Chtapodhi District]]"
+faction: "[[The Cult of Miledu]]"
+status: 
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Daria Ironfleet
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Daria|
+| Race| halfling |
+| Gender| female|
+| Age | adult|
+| Alignment|| 
+| Background| |
+| Location|  [Chtapodhi District|
+| Faction| The Cult of Miledu| 
+Description
+Relationships
+Dalton Ironfleet's daughter
+Darchus Ironfleet's twin sister
+Story Log
+Most Recent
+Session 53: Theobald expresses his concerns to Gandour. Gandour responds that he trusts Janna because she turned over Darchus and Daria Ironfleet, members of [The Cult of Miledu|The Cult of Miledu]].
+
+All Entries
+[Session 53: Theobald expresses his concerns to Gandour. Gandour responds that he trusts Janna because she turned over Darchus and Daria Ironfleet, members of [[The Cult of Miledu|The Cult of Miledu]].

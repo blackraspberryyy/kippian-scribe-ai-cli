@@ -1,0 +1,30 @@
+share: true
+aliases:
+  Stonethorn
+location: "[Kippian]]"
+status: 
+lore_type: location
+icon: map
+Basic Information
+[!infobox]
+Stonethorn Mountains
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Stonethorn|
+| Type | 
+| Located in | [Kippian|
+Known for:
+Description
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

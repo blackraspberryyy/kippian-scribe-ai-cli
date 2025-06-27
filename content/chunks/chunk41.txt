@@ -1,0 +1,57 @@
+share: true
+aliases:
+  Opidian Staff
+characters:
+  "Zerrus Zagi"
+  ""
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: item
+icon: lore
+Basic Information
+!infobox]
+Ymerald Staff
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Opidian Staff|
+| Type|item|
+| Keeper | [Spraugh 'Splix' Calix|
+| Past Keeper| Zerrus Zagi|
+Attributes
+|   |  |
+| ---- | ---- |
+| Weight| 4 lbs.|
+Description
+Recovered from the infinitely-deep Lake of Shimmers, the Ymerald Staff is an arcane focus composed of a seemingly innocuous emerald gemstone affixed on top of a cane-sized driftwood. Imbued with otherworldly power, the Opidian Staff transforms the keeper's latent arcane energy into powerful evoking magic. With enough power, it can call on meteors to decimate the battlefield.
+Mythic Keeper: Zerrus Zagi
+The Ymerald Staff serves as a reminder of the insane spellcasting prowess that Zerrus Zagi brought during The Great War. The emerald-tipped staff allowed Zagi to cast evocation spells with fury and ease.
+Properties
+Ymerald Blessing
+The Ymerald Staff holds a curious power. You can prepare one additional evocation spell.
+Opidian Quarterstaff
+This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
+Zagi's Ferocity
+The Ymerald Staff imparts a cantrip from Zagi's spell repertoire. After a long rest, choose an evocation cantrip from the wizard's spell list that you have not learned. You can cast that cantrip while holding this staff. The effect lasts until you take a long rest.
+Evoker Staff I
+While holding the Ymerald Staff, you gain +1 save DC for evocation spells, and a +1 bonus to evocation spell attack rolls.
+Story Log
+Most Recent
+Session 35: Splix retrieves Ymerald Staff.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."
+Session 42: Splix spots Professor Aufel and talk to him. During their reunion, Splix showed his professor his Ymerald Staff.
+Session 42: Splix visits Professor Aufel and asks the professor to teach him an evocation spell. Professor Aufel asks for a thorough inspection of the Ymerald Staff in exchange.
+Session 46: Professor Aufel asks Splix about their deal for him to examine the Ymerald Staff in exchange for a spell. Splix obliges.
+Session 46: After his examination of the Ymerald Staff, Professor Aufel discerns that the driftwood handle and manner of the staff is substandard and less than ideal. More importantly, he gleaned that the affixed emerald gemstone cannot be created using natural nor known magical processes: therefore, it must have an extraterrestrial origin.
+
+All Entries
+Session 35: Splix retrieves Ymerald Staff.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."
+Session 42: Splix spots Professor Aufel and talk to him. During their reunion, Splix showed his professor his Ymerald Staff.
+Session 42: Splix visits Professor Aufel and asks the professor to teach him an evocation spell. Professor Aufel asks for a thorough inspection of the Ymerald Staff in exchange.
+Session 46: Professor Aufel asks Splix about their deal for him to examine the Ymerald Staff in exchange for a spell. Splix obliges.
+Session 46: After his examination of the Ymerald Staff, Professor Aufel discerns that the driftwood handle and manner of the staff is substandard and less than ideal. More importantly, he gleaned that the affixed emerald gemstone cannot be created using natural nor known magical processes: therefore, it must have an extraterrestrial origin.

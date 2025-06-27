@@ -1,0 +1,91 @@
+share: true
+aliases:
+  Mitarella
+gender: female
+race: human
+age: old
+alignment: 
+background: 
+location: "Duospathia"
+faction: "The High Council of Midkip"
+status: 
+lore_type: character
+icon: character
+Bio
+!infobox]
+Mitarella Randall
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Mitarella|
+| Race| human |
+| Gender| female|
+| Age | old|
+| Alignment|| 
+| Background| |
+| Location|  [Duospathia District|
+| Faction| The High Council of Midkip| 
+Description
+Mitarella is a staunch and wise advisor to King Riordan. She is loyal to United Kippian. She is Duospathia's representative to The High Council of Midkip.
+Death of King Riordan
+Mitarella, by virtue of seniority, becomes the regent of United Kippian after King Riordan's death. She guides Remus as the prince prepare for kingship.
+Relationships
+Michaela Randall and Malvin Randall's mother.
+Story log
+Most Recent
+Session 49: Mitarella returns to the man to negotiate: one prisoner for a third of the civilians.
+Session 49: The man casts a portal and around 200 dazed civilians exit from it. The man asks for a prisoner. Mitarella releases Raveena.
+Session 49: Elvin releases another 200 civilians. Mitarella hugs Malvin before releasing him. Malvin Randall stands behind Elvin.
+Session 49: Elvin releases the last 200 civilians. Mitarella releases Rickard. Rickard mockingly spits at Mitarella's direction:
+"The royals of Midkip do not negotiate."
+Session 49: Adeena, Adikia and Theobald arrives at the Ankyra's Old Castle Compound. Theobald helps the civilians. Adeena approaches Remus and Splix, and Adikia walks to Mitarella.
+Session 49: Elvin casts a large portal in front of Adikia and Mitarella. The two back off. Raveena, Malvin and Rickard rush into the portal, but the dragon stops them. The dragon and Elvin must enter first.
+Session 49: Splix casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but Elvin persuades the dragon not to worry about it as it poses no threat. Elvin mocks the party. Adikia is irate; sensing a provocation, Mitarella coaxes Adikia:
+"Let them have this day."
+Session 49: Mitarella breaks down, and Remus is horrified by what transpired.
+Session 53: The retinue from Ankyra arrives. The carriage contains Kirren, Mitarella, Michaela and Remus.
+Session 53: Mitarella gives a scroll of Zone of Truth to Theobald. Theobald casts it and starts the interrogation. Janna does not resist the spell.
+
+All Entries
+Session 31: Mitarella meets Thoradin in the party's quarters.
+Session 31: Mitarella asks Thoradin to join the party.
+Session 31: Mitarella and Remus cried.
+Session 31: Theobald casts Zone of Truth. Mitarella, Remus Kyp, and 4 royal guards.
+Session 33: The party finds Mitarella and Remus.
+Session 33: The party interrogates Rickard; Theobald casts Zone of Truth. Michaela and Mitarella succeed the check. Kirren, Remus, and Rickard fails.
+Session 35: Kiris, Kirren, and Mitarella confronts Kayvan.
+Session 35: Mitarella reveals that Kayriel Acquermann is a spy the kingdom sent to Sumber.
+Session 35: Mitarella: "I can confirm Kayriel's presence in Sumber within a day."
+Session 42: During the traditional intermission, Mitarella talks to Adikia, Theobald, and Kiris.
+Session 42: Mitarella shares that Kayriel Acquermann is not in Sumber. She has had no success communicating with Kayriel Acquermann
+Session 42: The party plans a meeting with the group within the Ironfleet Compound. The party invites Mitarella, Michaela, Kirren, Kayvan and Remus.
+Session 44: Nokia alerts Mitarella, Michaela, Kayvan, Remus and Kirren.
+Session 44: Kiris warns the Mitarella and company about possible ambush using a sending stone Kirren gave to her.
+Session 44: Mitarella and company arrives, along with food and resources for Gandour's people.
+Session 44: Mitarella tells Gandour the news about the Death of King Riordan.
+Session 44: Mitarella shares Kayriel's mission in Sumber.
+Session 44: Kayriel was assigned for 25 years. Two years ago Kayriel broke contact with Mitarella.
+Session 44: Mitarella, Kayvan and Kirren knows nothing about Kayriel's ability to magically create a clone of himself.
+Session 44: Mitarella, Kirren, and Kayvan could not recognize the face. However, Nos and Olrac shares that they have seen that face before.
+Session 45: Djorken imparts that Mitarella, Remus and Kirren will return back to Ankyra's Old Castle Compound after lunch. He expects the party to attend the lunch.
+Session 45: Mitarella, Kirren and Remus bid their goodbye and return to Ankyra's Old Castle Compound.
+Session 47: Adeena and Adikia talks to Mitarella regarding Raveena; the regent breathes a sigh of relief. Mitarella assigns Michaela to lead them to the dungeon.
+Session 49: Splix sees Mitarella and Remus exiting the castle to check on the situation. Mitarella approaches the intruders. Splix stays within earshot of the regent.
+Session 49: The dragon descends down on the compound and lowers its head. The robed man, who is wielding a staff with a dragon emblem, approaches Mitarella.
+Session 49: Mitarella talks to the man. The man negotiates for the prisoners' release in exchange for the lives of the civilians of Yvernus. As a gesture of good will, the man casts a portal spell. Three civilians exit from the portal.
+Session 49: Mitarella heads back and consults with Remus.
+Session 49: Michaela appears, and she votes not to exchange prisoners. Mitarella is leaning to agree on the man's proposal. Remus remains undecided.
+Session 49: Splix agrees with Mitarella. This pushes Remus to exchange their prisoners for the civilians of Yvernus.
+Session 49: Mitarella returns to the man to negotiate: one prisoner for a third of the civilians.
+Session 49: The man casts a portal and around 200 dazed civilians exit from it. The man asks for a prisoner. Mitarella releases Raveena.
+Session 49: Elvin releases another 200 civilians. Mitarella hugs Malvin before releasing him. Malvin Randall stands behind Elvin.
+Session 49: Elvin releases the last 200 civilians. Mitarella releases Rickard. Rickard mockingly spits at Mitarella's direction:
+"The royals of Midkip do not negotiate."
+Session 49: Adeena, Adikia and Theobald arrives at the Ankyra's Old Castle Compound. Theobald helps the civilians. Adeena approaches Remus and Splix, and Adikia walks to Mitarella.
+Session 49: Elvin casts a large portal in front of Adikia and Mitarella. The two back off. Raveena, Malvin and Rickard rush into the portal, but the dragon stops them. The dragon and Elvin must enter first.
+Session 49: Splix casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but Elvin persuades the dragon not to worry about it as it poses no threat. Elvin mocks the party. Adikia is irate; sensing a provocation, Mitarella coaxes Adikia:
+"Let them have this day."
+Session 49: Mitarella breaks down, and Remus is horrified by what transpired.
+Session 53: The retinue from Ankyra arrives. The carriage contains Kirren, Mitarella, Michaela and Remus.
+Session 53: Mitarella gives a scroll of Zone of Truth to Theobald. Theobald casts it and starts the interrogation. Janna does not resist the spell.

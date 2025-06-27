@@ -1,0 +1,44 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Matunda
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for: being the Goddess of Death and Life
+Description
+Lore Mentions
+Most Recent
+[Session 38: In a vision,Theobald'sMatunda's Mace glows,
+You see Astar, Theobald's lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
+Session 41: Theobald asks the casters about the wielder of Matunda's Mace.
+"Yugad, the first Amalgam Cleric, weaves death and life into a single, inseparable thesis: there is no life without death."
+Session 47: During their travel, Thoradin and Theobald continue their conversation about faith. Theobald hears a divine whisper emanating from Matunda's Mace.
+Session 47: Then, the woman figure opens her hand, and Theobald sees the symbol of Matunda inscribed on her palm. The figure then faces Theobald and imparts a premonition:
+"You are destined for greater things."
+Session 49: Father Ignatius asks Theobald about the Matunda's Mace. Theobald shares that Stella Kari entrusted it to him before she dies. Theobald remarks that he is unsure of the path he is taking. He shares his vision of Aisef to Father Ignatius.
+Session 51: Theobald offers Matunda's Mace in exchange for the party's freedom, including Splix and Fiamil. The sphinx accepts the offer, but only frees him, Splix and Fiamil.
+Session 51: Arc recovers Theobald's Matunda's Mace, along with a tiara and a hefty amount of gold.
+
+All Entries
+Session 38: In a vision,Theobald'sMatunda's Mace glows,
+You see Astar, Theobald's lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
+Session 41: Theobald asks the casters about the wielder of Matunda's Mace.
+"Yugad, the first Amalgam Cleric, weaves death and life into a single, inseparable thesis: there is no life without death."
+Session 47: During their travel, Thoradin and Theobald continue their conversation about faith. Theobald hears a divine whisper emanating from Matunda's Mace.
+Session 47: Then, the woman figure opens her hand, and Theobald sees the symbol of Matunda inscribed on her palm. The figure then faces Theobald and imparts a premonition:
+"You are destined for greater things."
+Session 49: Father Ignatius asks Theobald about the Matunda's Mace. Theobald shares that Stella Kari entrusted it to him before she dies. Theobald remarks that he is unsure of the path he is taking. He shares his vision of Aisef to Father Ignatius.
+Session 51: Theobald offers Matunda's Mace in exchange for the party's freedom, including Splix and Fiamil. The sphinx accepts the offer, but only frees him, Splix and Fiamil.
+Session 51: Arc recovers Theobald's Matunda's Mace, along with a tiara and a hefty amount of gold.

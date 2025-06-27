@@ -1,0 +1,30 @@
+share: true
+aliases: 
+location: "Foenyx"
+status: 
+lore_type: location
+icon: building
+Basic Information
+!infobox]
+Chapel of Aisef
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Foenyx District|
+Description
+A small, humble chapel located in Foenyx. Father Ignatius heads the chapel's activities.
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name                                         |
+| -------------------------------------------- |
+| Ignatius Lavell |
+
+Factions
+| Name |
+| ---- |

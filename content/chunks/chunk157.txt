@@ -1,0 +1,48 @@
+share: true
+aliases:
+  Auriel
+gender: male
+race: elf
+age: young adult
+alignment: 
+background: scholar
+location: "[Aetos District]]"
+faction: "[[The Cult of Miledu]]"
+status: 
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Auriel Furwish
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Auriel|
+| Race| elf |
+| Gender| male|
+| Age | young adult|
+| Alignment|| 
+| Background| scholar|
+| Location|  [Aetos District|
+| Faction| The Cult of Miledu| 
+Description
+Auriel Furwish is a necromancer.  
+Calyxius' Servant
+During one of the party's quests, he is revealed to be a follower of Calyxius.
+Relationships
+Laurie Furwish's son
+Story Log
+Most Recent
+Session 17: Janna Furwish visits the party and asks them to investigate about a lead regarding a Furwish Miledu supporter, Auriel Furwish.
+Session 17: Auriel Furwish is revealed to be Janna's nephew, and is a diligent scholar of the necromantic magic.
+Session 19: Auriel Furwish attacks the party.
+Session 51: Adikia and Adeena investigates the statue on the northeastern part of the Library that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. Adeena thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the party encountered Auriel Furwish in Calyxius' lair.
+Session 53: According to Janna, she, Leneia, Laurie and Auriel only aimed to reduce Kyps' and Acquermanns' hold over United Kippian. They do not agree with what Elvin and his faction are planning.
+
+All Entries
+Session 17: Janna Furwish visits the party and asks them to investigate about a lead regarding a Furwish Miledu supporter, Auriel Furwish.
+Session 17: Auriel Furwish is revealed to be Janna's nephew, and is a diligent scholar of the necromantic magic.
+Session 19: Auriel Furwish attacks the party.
+Session 51: Adikia and Adeena investigates the statue on the northeastern part of the Library that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. Adeena thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the party encountered Auriel Furwish in Calyxius' lair.
+Session 53: According to Janna, she, Leneia, Laurie and Auriel only aimed to reduce Kyps' and Acquermanns' hold over United Kippian. They do not agree with what Elvin and his faction are planning.

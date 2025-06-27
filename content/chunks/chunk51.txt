@@ -1,0 +1,35 @@
+share: true
+aliases:
+  Foenyx
+location: "Midelia"
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Foenyx District
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Foenyx|
+| Located in | [Midkip|
+Description
+Foenyx district is Midelia's holy district. Holy sites venerating both The Old Gods and The New Gods are located here.
+
+Stella Kari is the district's representative to The High Council.
+Notable Locations
+| Name                                                        |
+| ----------------------------------------------------------- |
+| Chapel of Aisef |
+| Chapel of Amlin |
+| Grand Cathedral |
+
+Notable NPCs
+| Name                                 |
+| ------------------------------------ |
+| Stella Kari |
+
+Factions
+| Name |
+| ---- |

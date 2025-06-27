@@ -1,0 +1,65 @@
+share: true
+aliases:
+  Dorfir
+  Professor Embersense
+gender: male
+race: elf
+age: old adult
+alignment: 
+background: professor
+location: "Savras University"
+faction: 
+status: 
+lore_type: character
+icon: character
+Bio
+!infobox]
+Dorfir Embersense
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Dorfir,Professor Embersense|
+| Race| elf |
+| Gender| male|
+| Age | old adult|
+| Alignment|| 
+| Background| professor|
+| Location|  [Savras University|
+| Faction| | 
+Description
+Dorfir Embersense is a professor hailing from Savras University. He specializes in transcription and translation of ancient spells.
+
+Dorfir Embersense is Fiamil's mentor and Splix's adviser.
+Relationships
+Splix's mentor
+Professor Aufel's colleague
+Story log
+Most Recent
+Session 51: Arc scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, Arc determines that the two are Splix's colleagues: Dorfir Embersense and Fiamil.
+Session 51: The party meets Dorfir Embersense and Fiamil Underwood. The party updates the two on what happened during the two weeks they are researching inside the Library.
+Session 51: Adeena asks Dorfir Embersense about a spell that could protect the Bloated Dragon from magical attacks. Dorfir Embersense recalls that an artifact of sorts protects Asteri District. The party informs him that the district is devastated during the Assault on Asteri.
+Session 51: Adikia asks Dorfir Embersense about Feypeak. Dorfir Embersense only recounts information that Adikia already knows.
+Session 51: Theobald solves the last riddle. A hole appears on the floor and the party is sucked into it. Dorfir remains on the floor.
+Session 51: During the fight, the sphinx teleports to the first floor and fatally wounds Dorfir Embersense and Fiamil.
+Session 51: Theobald casts revivify on both Dorfir Embersense and Fiamil Underwood. Arc uses the diamond from the tiara for one cast.
+Session 52: Adikia proposes to Polymorph Adeena into a sperm whale. Dorfir Embersense and Fiamil Underwood excitedly agree.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.
+Session 52: Along the way, the party spots the Bloated Dragon. They manage to catch its attention, thanks to a loud roar from Dorfir Embersense.
+
+All Entries
+Session 46: Splix asks Professor Aufel for some guidance on field barrier spells. Professor Aufel tells Splix that Professor Embersense might have knowledge on the matter.
+Session 46: According to Professor Aufel, Professor Embersense is transcribing and translating spells from ancient times, particularly spells from Primordial Ages and Eon of Akenatun's Descent.
+Session 46: Professor Aufel also tells Splix that Professor Embersense took Fiamil as his disciple.
+Session 50: Just as the party is about to ride the Bloated Dragon, Splix returns bearing a message from [Savras University|Savras University]] about [Professor Embersense's location. Professor Embersense and his apprentice, Fiamil, are currently researching an ancient structure resurfacing from the sea. Splix suggests a destination to Gandour, and the latter accepts.
+Session 51: Arc ascends the stairs to the second floor. He sees a makeshift camp. Arc checks it, and sees a foot-high pile of books written by Dorfir Embersense. Arc also steals a pack of rations.
+Session 51: Arc scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, Arc determines that the two are Splix's colleagues: Dorfir Embersense and Fiamil.
+Session 51: The party meets Dorfir Embersense and Fiamil Underwood. The party updates the two on what happened during the two weeks they are researching inside the Library.
+Session 51: Adeena asks Dorfir Embersense about a spell that could protect the Bloated Dragon from magical attacks. Dorfir Embersense recalls that an artifact of sorts protects Asteri District. The party informs him that the district is devastated during the Assault on Asteri.
+Session 51: Adikia asks Dorfir Embersense about Feypeak. Dorfir Embersense only recounts information that Adikia already knows.
+Session 51: Theobald solves the last riddle. A hole appears on the floor and the party is sucked into it. Dorfir remains on the floor.
+Session 51: During the fight, the sphinx teleports to the first floor and fatally wounds Dorfir Embersense and Fiamil.
+Session 51: Theobald casts revivify on both Dorfir Embersense and Fiamil Underwood. Arc uses the diamond from the tiara for one cast.
+Session 52: Adikia proposes to Polymorph Adeena into a sperm whale. Dorfir Embersense and Fiamil Underwood excitedly agree.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.
+Session 52: Along the way, the party spots the Bloated Dragon. They manage to catch its attention, thanks to a loud roar from Dorfir Embersense.

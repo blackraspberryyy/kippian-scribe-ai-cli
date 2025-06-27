@@ -1,0 +1,36 @@
+share: true
+aliases: 
+location: "[Elven Kingdom of Ephelus]]"
+status: 
+lore_type: location
+icon: settlement
+Basic Information
+[!infobox]
+Effil
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Located in | [Elven Kingdom of Ephelus|
+Known for: A large elven settlement
+Description
+Notable Locations
+| Name                                                            |
+| --------------------------------------------------------------- |
+| Effil Orphanage     |
+| Calix Estate           |
+| Savras University |
+| Temple of Aisef     |
+
+Notable NPCs
+| Name                                                    |
+| ------------------------------------------------------- |
+| Adzana Furwish              |
+| Steckun Calix                |
+| Spraugh 'Splix' Calix |
+| Theobald Clayhollow     |
+
+Factions
+| Name |
+| ---- |

@@ -1,0 +1,52 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Yekora
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for:
+Description
+Lore Mentions
+Most Recent
+[Session 6: Followers of Yekora attack The Cult of Miledu and the party after the theater play
+Session 14: On the way back to The Weeping WIllow, an agent of Yekora confronts the party.
+Session 38: Adeena experiences the following vision:
+Adeena sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of Yekora. Judge the heathens as prescribed by your oath."
+Session 44: Kayriel infiltrated the Order of Yekora and became Frederick's right-hand man. His cover name is Candor. Adeena attests to this fact.
+Session 44: The assassin divulges that the Order of Yekora is behind the attacks on the Ironfleet Compound.
+Session 45: Adeena finds a marking on the nearby wall. She remembers that it is a Yekora's Spy Code utilized by the Order of Yekora. She follows the trail.
+Session 45: Adeena finds a guard ship marked with Yekora's code, ordering her to follow it. Adeena ties her rowboat to it.
+Session 45: Regarding The Cult of Miledu, Kayriel is as clueless as the party. He mentions that he has knowledge of the Theater Incident since a follower from the Order of Yekora told it to him.
+Session 45: Adeena receives a letter. Within it is a map, a symbol of Yekora, and a note:
+Meet me here, alone.
+-C/K
+Session 45: Adeena asks if it is safe to tell all this with the Dusk Talon assassins hearing them. Kayriel replies that the Dusk Talons' loyalty lies with him, and not the Order of Yekora.
+
+All Entries
+Session 1: Yekora assassins vs Eladrin assassin vs party
+Session 1: Yekora spies/cult fanatic stops the party, Eladrin assassin jumps in and joins the fray.
+Session 6: Followers of Yekora attack The Cult of Miledu and the party after the theater play
+Session 14: On the way back to The Weeping WIllow, an agent of Yekora confronts the party.
+Session 38: Adeena experiences the following vision:
+Adeena sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of Yekora. Judge the heathens as prescribed by your oath."
+Session 44: The assassin divulges that the Order of Yekora is behind the attacks on the Ironfleet Compound.
+Session 44: Kayriel infiltrated the Order of Yekora and became Frederick's right-hand man. His cover name is Candor. Adeena attests to this fact.
+Session 45: Adeena receives a letter. Within it is a map, a symbol of Yekora, and a note:
+Meet me here, alone.
+-C/K
+Session 45: Adeena finds a marking on the nearby wall. She remembers that it is a Yekora's Spy Code utilized by the Order of Yekora. She follows the trail.
+Session 45: Adeena finds a guard ship marked with Yekora's code, ordering her to follow it. Adeena ties her rowboat to it.
+Session 45: Adeena asks if it is safe to tell all this with the Dusk Talon assassins hearing them. Kayriel replies that the Dusk Talons' loyalty lies with him, and not the Order of Yekora.
+Session 45: Regarding The Cult of Miledu, Kayriel is as clueless as the party. He mentions that he has knowledge of the Theater Incident since a follower from the Order of Yekora told it to him.

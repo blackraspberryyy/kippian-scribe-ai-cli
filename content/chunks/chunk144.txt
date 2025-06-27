@@ -1,0 +1,45 @@
+share: true
+aliases:
+  Mathudim
+  Weaponmaster
+gender: male
+race: dwarf
+age: 
+alignment: 
+background: blacksmith
+location: "Wycroft"
+faction: 
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Mathudim Strongbolt
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Mathudim,Weaponmaster|
+| Race| dwarf |
+| Gender| male|
+| Age | |
+| Alignment|| 
+| Background| blacksmith|
+| Location|  [Wycroft Mountain Kingdom|
+| Faction| | 
+Description
+Mathudim Strongbolt hails from the dwarven kingdom of Wycroft. His forefathers were master blacksmiths, and Mathudim prepped himself to be the best one. He mastered the smith early on and was considered a prodigy in this regard. Mathudim built his own collection of armor, shields, and weapons. On his free time, he practiced wielding all kinds of weapons.
+
+Due to his smithing prowess, Mathudim's involvement in the war was required. Mathudim was first appointed as a warsmith: a smith capable of mending, smithing, and crafting all kinds of weapons, armors, and shields. He perfected weapon smithing while the great tides of wars were raging.
+Keeper of the Evershift
+The Great War dragged on for years and Mathudim and his dwarven kin diminished. Once, in an overland assault, Mathudim was forced to wield a curious weapon of his own making: the Evershift. On the battlefield Mathudim and the Evershift proved to be an unstoppable combination. He quickly rose through the ranks and became touted as the Weaponmaster. And the Evershift proves to be the pinnacle, albeit also the most unwieldy, of Mathudim's many formidable creations.
+Legacy
+The first month, Mathudim, is named after Mathudim Strongbolt
+Lore Mentions
+Excerpt from Champions of Wycroft
+Mathudim dragged the cumbersome Evershift into the battlefield; the gigantic, mechanical sword looked more of a burden than a weapon. But when Mathudim swung the Evershift, the rationale behind its design became clear: the hefty sword provided Mathudim with ferocious momentum. He swung it upwards, and with it Mathudim was launched into the air; he swung it forwards and he moved swiftly towards the enemy ranks. And he spun and spun, cutting enemies within Mathudim’s reach.
+–excerpt from the Champions of Wycroft
+Story Log
+Most Recent
+
+All Entries

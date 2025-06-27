@@ -1,0 +1,41 @@
+share: true
+aliases:
+  Adzana
+gender: female
+race: elf
+age: adult
+alignment: 
+background: 
+location: "Effil"
+faction: 
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Adzana Furwish
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Adzana|
+| Race| elf |
+| Gender| female|
+| Age | adult|
+| Alignment|| 
+| Background| |
+| Location|  [Effil|
+| Faction| | 
+Description
+Adzana is Splix's mother. Adzana is a member of the Furwish Clan, an elven family with a noble status. Adzana is married to Steckun Calix, a successful business owner.
+Death
+Adzana and her husband died during an attack on Calix Estate in Effil.
+Relationships
+Splix's mother
+Steckun Calix's wife
+Story log
+Most Recent
+
+All Entries
+
+

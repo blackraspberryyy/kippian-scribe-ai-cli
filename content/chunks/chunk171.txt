@@ -1,0 +1,69 @@
+share: true
+aliases:
+  Michaela
+gender: female
+race: human
+age: young adult
+alignment: 
+background: 
+location: "[Duospathia District]]"
+faction: 
+status: ally
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Michaela Randall
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Michaela|
+| Race| human |
+| Gender| female|
+| Age | young adult|
+| Alignment|| 
+| Background| |
+| Location|  [Duospathia District|
+| Faction| | 
+Description
+Michaela is a experienced warrior. She is devoted to her mother, Mitarella Randall.
+Relationships
+Mitarella's daughter
+Kirren and Leneia's friend
+Story log
+Most Recent
+Session 42: The party plans a meeting with the group within the Ironfleet Compound. The party invites Mitarella, Michaela, Kirren, Kayvan and Remus.
+Session 44: Nokia alerts Mitarella, Michaela, Kayvan, Remus and Kirren.
+Session 45: Adikia asks Michaela about Noah's whereabouts. Michaela says that they parted late last night.
+Session 45: Michaela asks if Noah's disappearances is normal. Adikia says yes, and she must not be concerned. Michaela tells Adikia that the party can ask for her help in finding Noah.
+Session 47: Adeena and Adikia talks to Mitarella regarding Raveena; the regent breathes a sigh of relief. Mitarella assigns Michaela to lead them to the dungeon.
+Session 47: Theobald notices Michaela and Noah having a deep talk.
+Session 47: The party talks to the guards and Michaela about their worries. Michaela assures them that keeping them in one location saves resources and time, which the party badly needs.
+Session 49: Michaela appears, and she votes not to exchange prisoners. Mitarella is leaning to agree on the man's proposal. Remus remains undecided.
+Session 53: The retinue from Ankyra arrives. The carriage contains Kirren, Mitarella, Michaela and Remus.
+Session 53: Noah asks Michaela to assist her in checking Drakon later. Michaela refuses, reasoning that she is currently tied to her duty.
+
+All Entries
+Session 13: The party talks to Michaela, the district mayor. She allows the party to enter the library under the condition of being escorted by some guards.
+Session 31: Adeena and Noah notices Kirren sleeping. Michaela is gone.
+Session 33: Michaela Randall wakes Noah from her sleep.
+Session 33: Michaela and Noah goes to the dungeons.
+Session 33: Malvin attempts to kill Michaela with a dagger.
+Session 33: Noah spots a shadowy figure by the stairs. Michaela does not see it.
+Session 33: Kirren finds Noah and Michaela and tells them about the Death of King Riordan.
+Session 33: Noah, Kirren, and Michaela finds Kiris, who caught Rickard, falling from the air.
+Session 33: The party interrogates Rickard; Theobald casts Zone of Truth. Michaela and Mitarella succeed the check. Kirren, Remus, and Rickard fails.
+Session 35: Noah and Michaela investigate the library.
+Session 42: Noah overhears Kirren and Michaela talking. Kirren asks if Michaela if she knew about Leneia. Michaela denies it, and consoles Kirren.
+Session 42: Noah overhears that Professor Aufel and Michaela talking. The professor's there to conduct research within the Ankyra's Old Castle Compound's library that could help with the Yvernus situation.
+Session 42: The party plans a meeting with the group within the Ironfleet Compound. The party invites Mitarella, Michaela, Kirren, Kayvan and Remus.
+Session 44: Nokia alerts Mitarella, Michaela, Kayvan, Remus and Kirren.
+Session 45: Adikia asks Michaela about Noah's whereabouts. Michaela says that they parted late last night.
+Session 45: Michaela asks if Noah's disappearances is normal. Adikia says yes, and she must not be concerned. Michaela tells Adikia that the party can ask for her help in finding Noah.
+Session 47: Adeena and Adikia talks to Mitarella regarding Raveena; the regent breathes a sigh of relief. Mitarella assigns Michaela to lead them to the dungeon.
+Session 47: Theobald notices Michaela and Noah having a deep talk.
+Session 47: The party talks to the guards and Michaela about their worries. Michaela assures them that keeping them in one location saves resources and time, which the party badly needs.
+Session 49: Michaela appears, and she votes not to exchange prisoners. Mitarella is leaning to agree on the man's proposal. Remus remains undecided.
+Session 53: The retinue from Ankyra arrives. The carriage contains Kirren, Mitarella, Michaela and Remus.
+Session 53: Noah asks Michaela to assist her in checking Drakon later. Michaela refuses, reasoning that she is currently tied to her duty.

@@ -1,0 +1,32 @@
+share: true
+aliases:
+  Grand Cathedral
+location: "Foenyx"
+status: 
+lore_type: location
+icon: building
+Basic Information
+!infobox]
+Grand Cathedral
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Grand Cathedral|
+| Type | 
+| Located in | [Foenyx District|
+Description
+Located on an island in Foenyx, this magnanimous cathedral is dedicated to The Old Gods. It is also the home of Stella Kari, Matunda's only cleric.
+Grand Cathedral
+
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

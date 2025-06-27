@@ -1,0 +1,35 @@
+share: true
+aliases: 
+location: 
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Sumber
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | |
+Known for:
+Description
+Notable Locations
+| Name                                    |
+| --------------------------------------- |
+| [Corleus |
+
+Notable NPCs
+| Name                                           |
+| ---------------------------------------------- |
+| Cain Othburn         |
+| Frederick Oberon |
+| Adeena Oberon        |
+
+Factions
+| Name                                                     |
+| -------------------------------------------------------- |
+| Dusk Talons                 |
+| Followers of Yekora |

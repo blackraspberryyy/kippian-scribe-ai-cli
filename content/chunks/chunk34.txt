@@ -1,0 +1,69 @@
+share: true
+aliases:
+  Gilded Rapier
+characters:
+  "Azir Kyp"
+  "Remus Kyp"
+  "Adikia Unalome"
+location: "[Ankyra District]]"
+fc-date: 
+fc-category: Lore
+lore_type: item
+icon: lore
+Basic Information
+[!infobox]
+Aureate Rapier
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Gilded Rapier|
+| Type|item|
+|Keeper| [Adikia Unalome|
+|Past Keeper| Remus Kyp|
+Attributes
+|   |  |
+| ---- | ---- |
+| Damage| 1d8 piercing|
+| Properties| Finesse |
+| Weight| 2 lbs.|
+Description
+The Aureate Rapier is not meant to be used as a weapon. Instead, its merit lies in its undeniable value. Its flawless and enigmatic sheen entices those who see it, and its symbolic importance is enough to capture anyone's attention. In the right hands, or rather on the right terms, the Aureate Rapier can be the perfect asset.
+Mythic Keeper: Azir Kyp
+The Aureate Rapier is a golden ceremonial rapier given to Kippian's royal princes. Its power, which is exploited to its fullest potential by Azir Kyp during The Great War, magnifies its wielder's innate charisma.
+Properties
+Chipped Gold
+You can sell the chipped gold for 1 gp. You can only do this once per day. A chipped Aureate Rapier deals half its normal damage.
+Alchemical Nature
+The Aureate Rapier retained some of its alchemical magic, allowing it to self-mend its chipped parts. Next dawn, the Aureate Rapier is back to its unchipped state.
+Bargaining Chip
+You gain advantage on your Charisma checks whenever you use the Chipped Gold as a bargaining asset. In addition, you can now sell the chipped gold for 5 gp.
+Golden Allure
+If you are wielding the Aureate Rapier, target one creature who can see this weapon. The target has disadvantage on all Wisdom checks. You can change the target (or targets) of Golden Allure at the start of your next turn.
+Alluring Appearance I
+You can now target up to two creatures with Golden Allure.
+Disarming Presence
+Choose one enemy creature affected by Golden Allure. You can use your action to impose disadvantage on its next attack roll. In addition, it takes one additional die for the next damage source it would receive. These effects last until the start of your next turn.
+Story Log
+Most Recent
+Session 31: Splix realizes that the party is not allured by the Aureate Rapier wielded by Remus Kyp.
+Session 31: Remus Kyp breaks down and realizes that the sword he wields is but a replica of the Aureate Rapier.
+Session 31: Remus Kyp forgot that he left the Aureate Rapier with the King last night.
+Session 32: Adikia retrieves the Aureate Rapier.
+Session 34: Remus Kyp "gives" the Aureate Rapier to Adikia.
+Session 41: Splix offers 25 gp. Noah offers 2 gp. Kiris offers an Amulet of Undead. Adeena offers her magical earring. Adikia offers a chipped gold from the Aureate Rapier.
+Session 41: Adikia asks the casters about the lore of her Aureate Rapier.
+"The Aureate Rapier was a ceremonial rapier passed down to the heirs of United Kippian. Its hidden power is made known only through Prince Azir's daring adventures."
+Session 51: Adikia successfully offers only a piece of her Aureate Rapier.
+
+All Entries
+Session 31: Splix realizes that the party is not allured by the Aureate Rapier wielded by Remus Kyp.
+Session 31: Remus Kyp breaks down and realizes that the sword he wields is but a replica of the Aureate Rapier.
+Session 31: Remus Kyp forgot that he left the Aureate Rapier with the King last night.
+Session 32: Adikia retrieves the Aureate Rapier.
+Session 34: Remus Kyp "gives" the Aureate Rapier to Adikia.
+Session 41: Splix offers 25 gp. Noah offers 2 gp. Kiris offers an Amulet of Undead. Adeena offers her magical earring. Adikia offers a chipped gold from the Aureate Rapier.
+Session 41: Adikia asks the casters about the lore of her Aureate Rapier.
+"The Aureate Rapier was a ceremonial rapier passed down to the heirs of United Kippian. Its hidden power is made known only through Prince Azir's daring adventures."
+Session 51: Adikia successfully offers only a piece of her Aureate Rapier.
+

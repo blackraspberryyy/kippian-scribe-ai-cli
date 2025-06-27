@@ -1,0 +1,32 @@
+share: true
+aliases:
+  The Old Gods
+location: 
+status: 
+lore_type: faction
+icon: faction
+Information
+!infobox]
+Pantheon of the Old Gods
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Aliases | The Old Gods|
+| Status| |
+| Based in|  |
+Description
+Organization
+Leader:
+Known Members
+| Name |
+| ---- |
+
+Story log
+Most Recent
+[Session 47: Theobald enters the chapel and directs his plea to Aisef. He hears the divine whisper clearer:
+"The Old God will set you free. I will set you free. Trust in me. I will lead you to the truth."
+
+All Entries
+Session 47: Theobald enters the chapel and directs his plea to Aisef. He hears the divine whisper clearer:
+"The Old God will set you free. I will set you free. Trust in me. I will lead you to the truth."

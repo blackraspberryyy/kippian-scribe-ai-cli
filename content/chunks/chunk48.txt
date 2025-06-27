@@ -1,0 +1,37 @@
+share: true
+aliases:
+  Drakon
+location: "Midelia"
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Drakon District
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Drakon|
+| Located in | [Midkip|
+Description
+Midelia's westernmost district, Drakon, is where rural migrants settle. The district is one of the two outer districts. Farms and ranches are scattered within the district.
+
+Gokare Veegar serves as the district's High Council representative.
+Population
+Twenty-five percent of the district's population are dragonborn. According to the district's history, the dragonborn, who are not native to Kippian, were the first settlers of Drakon district.
+Notable Locations
+| Name                                                                              |
+| --------------------------------------------------------------------------------- |
+| Drakon's Open Amphitheater |
+
+Notable NPCs
+| Name                                           |
+| ---------------------------------------------- |
+| Djorken Veegar     |
+| Gokare Veegar       |
+| Raveena Malandar |
+
+Factions
+| Name |
+| ---- |

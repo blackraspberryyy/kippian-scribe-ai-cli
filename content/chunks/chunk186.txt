@@ -1,0 +1,128 @@
+share: true
+aliases:
+  Kiris
+gender: male
+race: half-orc
+age: young adult
+alignment: 
+background: sorcerer
+location: "[Yvernus District]]"
+status: 
+faction: "[[Seven Up...]]"
+icon: player
+Bio
+[!infobox]
+Kiris Acquermann
+cover hsmall
+Bio
+| |  |
+| ---- | ---- |
+| Aliases | Kiris|
+| Race| half-orc |
+| Gender| male|
+| Age | young adult|
+| Alignment|| 
+| Background| sorcerer|
+| Location|  [Yvernus District|
+| Faction| Seven Up...| 
+Known for being: 
+Description
+Class: Sorcerer
+Subclass: Shadow Magic Sorcerer
+Backstory
+A half orc in search of his lineage. Kiris was raised by his mother, Sera, in a cursed and secluded place: the cold wilderness of Lazagog's Forest. Growing up, he discovered that he has this untapped magic ability within him. Kiris tried to control it himself, but to no avail. He can cast basic spells, sure, but he knows that there is much, much more to this uncanny skill; even so for an orc.
+
+And he was an orc, for a time. As he grew older, he began to notice features that resembled a human rather than an orc: smoother skin, lighter pigmentation, smaller set of tusks, and a preference for cooked food. But Kiris is not only a half-orc; he is a magic-wielding half-orc. He intuits that maybe that is the reason her mother and him lived away from orc tribes: to conceal her peculiar son.
+
+All the time Kiris spent in the forest with his mother made him wonder about his father’s identity. His eagerness to know the truth gave him negative emotions; he even thought that his father hated him, and they were banished to the forest because of his mixed race. His secretive mother always dismissed his questions about his father. But it did nothing to sweep his emotions away. Someday, he will learn his father’s secrets.
+
+Time went on, and Sera became severely ill. Kiris’ magic, while becoming more powerful, was not able to heal. And since they were miles from known orc healers, Sera eventually died a slow yet peaceful death. She died holding Kiris’ hand. On her other hand, however, was a box Kiris had never seen before. The box proved to be the starting point of the young orc’s adventure.
+
+The box contained a curious emblem, 10 gold pieces, and a note from Sera. The letter warned him that knowing the truth of his father’s identity will just bring him harm. However, knowing that Kiris would just ignore her warning and would continue to find the truth anyway, she wrote him something that may help him: first, that his name is based on his father’s name; and second, that the emblem that is included in the box is his inheritance from his father.
+
+The contents of the box left Kiris with more questions than answers, yet he felt closer to the truth. It was now up to him to begin his quest on knowing his lineage and identity, a journey that started from the deep wilds of Lazagog's Forest to a comfortable tavern in Curkip.
+Relationships
+Family
+Mother: Sera
+Story log
+Most Recent
+Session 49: Noah, Kiris and Thoradin see movement on the floating [Yvernus District|Yvernus]]. They see a dragon fly out of it, and descend down into [Ankyra.
+Session 49: Kirren decides to check on the situation. Thoradin, Noah and Kiris decide to stay to defend the airship.
+Session 50: Kiris wins the competition. The airship is formally named as the Bloated Dragon.
+Session 50: Thoradin sees an abnormal phenomenon: the seawater rising like a hill. The [Seven Up...|party]] checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris confirms that the magic must have been cast on the structure to hide it.
+Session 50: Each member of the [Seven Up...|party]] except [Kiris spots a Darkened Blade underneath the sands.
+Session 50: The [Seven Up...|party]] solves the puzzle and finds the Darkened Crown. [Kiris wears the Darkened crown.
+Session 50: Kiris enters the arena; other members of the [Seven Up...|party]] can now enter as well.
+[Session 51: Thoradin and Kiris checks the two spell circles on the stone floor. Kiris sees that the sigils on the spell circles pertain to a certain conjuration spell.
+Session 52: Kiris casts Binding Ice to create a barrier from the seawater.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.
+
+All Entries
+Session 6: Masked member of Miledu's cult attack Kiris Acquermann
+Session 8: Kiris' "calling card" glows. It is revealed to be a high family pass with the following letters: AQM
+Session 12: Kirren reveals truth about Kiris and her: they are half-siblings..
+Session 12: Kirren suggests that Kiris succeed Kristofer.
+Session 13: Kiris was unsuccessful in researching the families of Midkip.
+Session 31: Adeena Oberon and Kiris investigates the King's death.
+Session 32: Arc, Kiris, Thoradin and Splix goes to Kayvan's room.
+Session 32: Kayvan gives a special sending stone to Kiris.
+Session 33: Noah, Kirren, and Michaela finds Kiris, who caught Rickard, falling from the air.
+Session 35: Kiris, Kirren, and Mitarella confronts Kayvan.
+Session 36: Arc and Kiris succumbs to freezing cold. Their shadows are longer and darker than before.
+Session 37: During a collective vision, Kiris and Splix, aided by their team, is thrusted into a competitive four-versus-four brawl.
+Session 37: During the combat, Kiris is seen wearing the Frostborn Armor.
+Session 38: In a vision, Spekid Frostborn appears to Kiris.
+The serious sorcerer evokes a mild chuckle,
+"I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+Then, Spekid draws the sigil of the Northern Frost on Kiris' forehead. He then doffs the Frostborn Armor.
+"But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and Zerrus Zagi's power."
+Session 38: Kiris swaps his Shield spell to Rime's Binding Ice
+Session 38: Kiris wakes up with the Frostborn Armor attached to him. But it only has 1 frost charge... and it is weighing Kiris down---the armor does not attune to him.
+Session 41: Splix, Adeena, Adikia, Noah and Kiris finds an altar for Akenatun.
+Session 41: Splix offers 25 gp. Noah offers 2 gp. Kiris offers an Amulet of Undead. Adeena offers her magical earring. Adikia offers a chipped gold from the Aureate Rapier.
+Session 41: The Shadow Knight bestows Theobald a Shadow Sigil resembling that of Kiris' sigil. The Knights of the Wayraven are revealed to inhabit the Plane of Shadows.
+Kiris shows the Shadow Knight his sigil.
+"That sigil belongs to the Wayravens, masters from the Material Realm who holds dominion over the Plane of Shadows."
+Session 41: Theobald gives the Shadow Sigil to Kiris.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."
+Session 42: During the traditional intermission, Mitarella talks to Adikia, Theobald, and Kiris.
+Session 42: Kiris asks Kirren about the Shadow Sigil. Kirren claims that she does not know about it other than that it looks familiar to the Wayravens' sigil.
+Session 44: Kiris warns the Mitarella and company about possible ambush using a sending stone Kirren gave to her.
+Session 44: Kiris casts Disguise Self to mimic the face of the unknown member of the Acquermann Clan.
+Session 45: Kiris reads Ancestral Families of Midkip to probe for clues; he is unsuccessful in his efforts.
+Session 45: Thoradin, Theobald and Kiris helps with the construction of the airship.
+Session 45: Kayvan pleads Adeena to accompany her. Kiris hears this, and asks Adeena if he could tag along.
+Session 45: The [Seven Up...|party]] prepares for [Adeena's excursion. Kayvan, Kiris and Arc will observe the meeting.
+Session 45: Adeena travels on land alone. Arc, Kayvan and Kiris go to the designated location using the waterways.
+Session 45: Meanwhile, Kayvan, Kiris, and Arc attempt to follow Adeena, but to no avail. In the end, they go back to the compound to enlist the [Seven Up...|party]]'s help.
+[Session 46: Theobald, Noah and Kiris help in the construction.
+Session 46: Kiris, Thoradin, Theobald, Arc and Noah go to Drakon district to gauge the situation. Thoradin convinces Djorken to accompany them, saying that he'll protect him from possible harm.
+Session 46: Arc and Kiris disguise as guards and successfully infiltrate the cadre of veteran guards escorting Raveena Malandar.
+Session 46: Raveena Malandar exits the stage. Arc and Kiris follow her. They follow her into a deserted grass park with large-trunked trees. Raveena hides behind one, and the two follow her.
+Session 46: Arc and Kiris determine that the cloaked individual is Janna Furwish.
+Session 46: After the conversation, Janna leaves, prompting Arc and Kiris to action.  The two manage to knock out and capture Raveena.
+Session 46: Kiris assumes Raveena Malandar's identity. He goes back to the Drakon Amphitheater as Raveena and without speaking, announces her leave to the guards. Kiris then messages the Drakon [Seven Up...|party]] to meet him and [Arc at a specific place within Drakon.
+Session 46: The Drakon [Seven Up...|party]] saw [Arc and Kiris carrying Raveena who is bound and unconscious. Djorken is startled, but Kiris manages to convince him that this is the best course to take. Djorken reluctantly agrees, and shares his knowledge of a less-traveled route back to the Ironfleet Compound that would attract the least attention.
+Session 47: Kiris and Adikia inspects the airship. Kiris is in awe of the airship; Adikia sees casters experimenting on abjuration magic.
+Session 48: Kirren asks Arc where to find Kiris and Kayvan; Arc supplies their location.
+Session 48: Kiris prepares a breakfast of bacon and eggs, bread, and hot chocolate for two. He plans to talk to Kayvan.
+Session 48: On the way to Kayvan's room, Kiris meets Kirren. Kirren invites Kiris, and later Kayvan, to a personal conversation.
+Session 48: Kirren explains to Kiris that the 9th of Zagi is a special date to her. She commemorates the anniversary of Kristofer's disappearance on this day.
+Session 48: It appears to Kiris that Kirren has accepted their father's absence. Kiris shares that he is still hopeful that their father is still alive; Kirren is grateful for Kiris' optimism.
+Session 48: Kirren invites Kiris later for remembering their missing father. Kayvan is also invited to come.
+Session 48: The [Seven Up...|party]], minus [Kiris and Splix, rides on a boat. Their boat tugs a smaller boat containing digging tools and some empty barrels. The [Seven Up...|party]], upon exiting the river's mouth, follows the western coastline.
+[Session 48: The [Seven Up...|party]] confronts a blacksand-based creature. [Arc, and later the other members of the [Seven Up...|party]], ascertains that the blacksand combusts explosively. The explosion was too strong that the sound it produced reaches [Kiris.
+Session 48: Thoradin and Noah meets Kiris in the courtyard and explains to them what happened. Afterwards, Thoradin talks to Nos and admits that they failed in retrieving the blacksand.
+Session 49: Kiris decides to sleep inKayvan's quarters with Kirren. Before Kiris rests, Thoradin asks Kiris to cast Vortex Warp on the Bloodstone Arcane Gem.
+Session 49: Back in Ironfleet Compound, Noah, Kiris and Thoradin wake up and find the other members of their [Seven Up...|party]] gone.
+[Session 49: Noah, Kiris and Thoradin see movement on the floating [Yvernus District|Yvernus]]. They see a dragon fly out of it, and descend down into [Ankyra.
+Session 49: Kirren decides to check on the situation. Thoradin, Noah and Kiris decide to stay to defend the airship.
+Session 50: Kiris wins the competition. The airship is formally named as the Bloated Dragon.
+Session 50: Thoradin sees an abnormal phenomenon: the seawater rising like a hill. The [Seven Up...|party]] checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris confirms that the magic must have been cast on the structure to hide it.
+Session 50: Each member of the [Seven Up...|party]] except [Kiris spots a Darkened Blade underneath the sands.
+Session 50: The [Seven Up...|party]] solves the puzzle and finds the Darkened Crown. [Kiris wears the Darkened crown.
+Session 50: Kiris enters the arena; other members of the [Seven Up...|party]] can now enter as well.
+[Session 51: Thoradin and Kiris checks the two spell circles on the stone floor. Kiris sees that the sigils on the spell circles pertain to a certain conjuration spell.
+Session 52: Kiris casts Binding Ice to create a barrier from the seawater.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.

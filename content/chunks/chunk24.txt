@@ -1,0 +1,31 @@
+share: true
+aliases: 
+location: "[Elven Kingdom of Ephelus]]"
+status: active
+lore_type: faction
+icon: faction
+Information
+[!infobox]
+Followers of Aulephi
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Aliases | |
+| Status| active|
+| Based in|  [Elven Kingdom of Ephelus|
+Known for:
+Description
+Organization
+Leader:
+Known Members
+| Name                                   |
+| -------------------------------------- |
+| Cain Othburn |
+
+Goals
+[ ] Task 1
+Story log
+Most Recent
+
+All Entries

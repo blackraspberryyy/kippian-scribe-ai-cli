@@ -1,0 +1,28 @@
+share: true
+aliases: 
+location: "[Kingdom of United Kippian]]"
+status: 
+lore_type: location
+icon: settlement
+Basic Information
+[!infobox]
+Vonkor
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Located in | [Kingdom of United Kippian|
+Known for:
+Description
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

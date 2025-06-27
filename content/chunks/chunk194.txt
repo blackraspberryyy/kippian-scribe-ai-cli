@@ -1,0 +1,20 @@
+share: true
+creation_date: 2025-02-02 15:41
+location: "Labyrinthus"
+fc-date: 1083-06-05
+fc-category: Session
+icon: calendar
+Exploring the Labyrinthus, part 6
+Guardians of Ice and Fire
+Adikia investigates the statue. She sees the following inscription:
+Fashioned from the hall's stone golems, the Guardians of Ice and Fire are immune to most magic.
+Splix triggers an arcane trap, trapping Noah inside an invisible force barrier.
+Arc sees the following hallway inscription across the invisible barrier:
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the hall...
+Party encounters and defeats the actual Guardians of Ice and Fire.
+Thoradin retrieves the keys to disable the force barrier.
+The barrier disappears, but Noah is nowhere to be found.
+Adeena finds the continuation of the hallway inscription.
+Theobald finds some notes detailing the construction of the Guardians of Ice and Fire by Zerrus Zagi and Spekid Frostborn.
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the Hall of Akenatun from the labyrinthus.
+Arc discovers the statue that tells the discovery of the Scepter of Akenatun by Zerrus Zagi and Spekid Frostborn.

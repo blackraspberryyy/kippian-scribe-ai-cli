@@ -1,0 +1,38 @@
+share: true
+aliases:
+  Asteri
+location: "Midelia"
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Asteri District
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Asteri|
+| Located in | [Midkip|
+Description
+Asteri is Midelia's noble district. The High Council of Midkip convenes here.
+
+The district is made of gold, silver, and adorned with gemstones. An Antimagic Field protects the entire district.
+
+The district's interests are represented by United Kippian's king, King Riordan.
+
+Due to the Assault on Asteri, the district is destroyed, marking an end of Kippian's stability.
+Notable Locations
+| Name                                                                |
+| ------------------------------------------------------------------- |
+| Kippian Royal Court |
+
+Notable NPCs
+| Name                                 |
+| ------------------------------------ |
+| Riordan Kyp |
+
+Factions
+| Name                                                                   |
+| ---------------------------------------------------------------------- |
+| The High Council of Midkip |

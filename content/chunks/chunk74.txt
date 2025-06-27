@@ -1,0 +1,29 @@
+share: true
+aliases: 
+location: "Foenyx"
+status: 
+lore_type: location
+icon: building
+Basic Information
+!infobox]
+Dratzel's Priestly Goods
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Foenyx District|
+Description
+This store is located in a shopping alley within Foenyx. The establishment is owned by Geraldt Dratzel.
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

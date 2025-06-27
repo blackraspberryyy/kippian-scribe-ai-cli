@@ -1,0 +1,127 @@
+share: true
+aliases:
+  Arc
+gender: male
+race: elf
+age: 
+alignment: 
+background: rogue
+location: 
+status: 
+faction: "[Seven Up...]]"
+icon: player
+Bio
+[!infobox]
+Arc
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Arc|
+| Race| elf |
+| Gender| male|
+| Age | |
+| Alignment|| 
+| Background| rogue|
+| Location|  |
+| Faction| [Seven Up...| 
+Known for: being a rogue with a severe bout of amnesia
+Description
+Class: Rogue
+Subclass: Phantom Rogue
+Relationships
+Story log
+Most Recent
+Session 49: Arc finds a stall in the wall. A masked halfling mans the store. Arc buys 2 packs of caltrops, 10 daggers, a vial of poison, thieves' tools, and 60 arrows for 200 gp.
+Session 49: The halfling guide tugs on Arc, asking for some donatin. Arc gifts 2 gp (and the 1 cp) to the halfling. The masked shopkeeper remarks that Arc is too generous for a thief.
+Session 49: An elvish priest recognizes Arc and Theobald. The priest calls himself Father Drenn.
+Session 49: Adeena, Arc, Adikia and Theobald return to Ironfleet Compound. Theobald, Adikia and Adeena decide to go to check on the dragon appearing in Ankyra's Old Castle Compound.
+Session 49: Splix casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but Elvin persuades the dragon not to worry about it as it poses no threat. Elvin mocks the party. Adikia is irate; sensing a provocation, Mitarella coaxes Adikia:
+"Let them have this day."
+Session 51: Arc ascends the stairs to the second floor. He sees a makeshift camp. Arc checks it, and sees a foot-high pile of books written by Dorfir Embersense. Arc also steals a pack of rations.
+Session 51: Arc scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, Arc determines that the two are Splix's colleagues: Dorfir Embersense and Fiamil.
+Session 51: Arc recovers Theobald's Matunda's Mace, along with a tiara and a hefty amount of gold.
+Session 51: Theobald casts revivify on both Dorfir Embersense and Fiamil Underwood. Arc uses the diamond from the tiara for one cast.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.
+
+All Entries
+Session 13: Arc learns that wood elves are locals of the Soliven Forest.
+Session 14: Inside The Weeping WIllow, the [Seven Up...|party]] meets four representatives from four noble families of [Midkip: Armand Gorrel, a human of Lykos; Djorken Veegar, a red dragonborn hailing from Drakon, Gandour Ironfleet from Chtapodhi, and Janna Furwish from Aetos. Kirren and Arc are also present here.
+Session 31: [Seven Up...|Party]] wakes up. [Arc, Noah and Kirren is not in the quarters.
+Session 32: Arc woke up and went to Kayvan's room.
+Session 32: Arc met a mysterious tall man inside Kayvan's room.
+Session 32: Arc met the [Seven Up...|party]].
+[Session 32: Arc is interrogated by the [Seven Up...|party]].
+[Session 32: Arc, Kiris, Thoradin and Splix goes to Kayvan's room.
+Session 33: Korvin and Kayriel are revealed to be members of The Cult of Miledu. Korvin is part of the eight cult members in Bulkip, while Kayriel is shown to be the figure that Arc met.
+Session 34: Adikia, Adeena, Theobald, Arc and Thoradin enters the Arcanus Labyrinthus.
+Session 35: Kirren: "What if Kayriel is not actually the individual Arc saw yesterday?"
+Session 35: The [Seven Up...|party]] uses the [Arcanus Labyrinthus to enter the Labyrinthus.
+Session 36: Arc and Kiris succumbs to freezing cold. Their shadows are longer and darker than before.
+Session 38: The ghost then touches Noah, allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
+Session 38: Arc hears whispers of the dead:
+Absence of the cold releaseth sand, and creatures of leather.
+Session 38: During exploration, Arc sees a statue of Zerrus Zagi. The inscription says,
+The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
+Session 38: Arc and the party encounters a Blacksand Elemental.
+Session 39: Thoradin Goodman retrieves (and keeps) the Bloodstone Arcane Gem (Fireball DC 15).
+Session 40: Arc sees the following hallway inscription across the invisible barrier:
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the hall...
+Session 40: Arc discovers the statue that tells the discovery of the Scepter of Akenatun by Zerrus Zagi and Spekid Frostborn.
+Session 41: Theobald, Thoradin and Arc receives gold for their exploration.
+Session 41: The nameless Shadow Knight talks to the [Seven Up...|party]].
+[Arc shows the Twilight Dagger to the Shadow Knight.
+"That weapon owes its power from the Plane of Shadows"
+Session 41: Arc asks the casters about his Twilight Dagger's power.
+"One day, you will lose the Twilight Dagger. Then your character will change; for better or worse is yet to be determined."
+Session 42: The [Seven Up...|party]] incurs temporal displacement sickness. [Theobald, Arc and Adeena are more affected by the sickness.
+Session 42: Adeena opts to meditate and talk to Aulephi. Arc opts to rest instead.
+Session 42: Professor Aufel inspects the staff, and is boggled by it. Splix then shows the Arcanus Labyrinthus. Professor Aufel is understandably confused.
+Session 42: Arc wakes up, and Adeena is not in the room. She left the following note:
+!NOTE]
+From [Adeena
+I need to fulfill my oath.
+Session 42: Arc sneaks out of the compound to sell some stuff. Arc stumbles upon a dagger with a Sumberian design.
+Session 43: Arc climbs the nearby structure and finds three Dusk Talons overlooking the Compound.
+Session 44: Arc and Thoradin looks for Dusk Talon Assassins.
+Session 44: Arc confronts a Dusk Talon and interrogates him.
+Session 45: Arc tries to track the Dusk Talon assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. Arc leaves 10 [Seven Up...|Seven Up...](../Session%20Log/Session%2045.md): Adikia sees Arc covered in soot. Adikia laughs at him; annoyed, Arc looks at his surroundings, and spots a lizard tail wading underneath Chtapodhi's canal waters.
+Session 45: The [Seven Up...|party]] prepares for [Adeena's excursion. Kayvan, Kiris and Arc will observe the meeting.
+Session 45: Adeena travels on land alone. Arc, Kayvan and Kiris go to the designated location using the waterways.
+Session 45: Meanwhile, Kayvan, Kiris, and Arc attempt to follow Adeena, but to no avail. In the end, they go back to the compound to enlist the [Seven Up...|party]]'s help.
+[Session 46: Arc scouts the surroundings for Dusk Talon assassins, but sees none. He observes more Chtapodhi's residents walking freely near the Ironfleet Compound.
+Session 46: Arc steals 10 gp and a propaganda poster from a tattered rucksack. The following text is written on the poster:
+Death to the Veegars,
+Death to the dragonborn,
+Rebels for Malandar,
+Malandar for Drakon!
+Session 46: Kiris, Thoradin, Theobald, Arc and Noah go to Drakon district to gauge the situation. Thoradin convinces Djorken to accompany them, saying that he'll protect him from possible harm.
+Session 46: Arc and Kiris disguise as guards and successfully infiltrate the cadre of veteran guards escorting Raveena Malandar.
+Session 46: Raveena Malandar exits the stage. Arc and Kiris follow her. They follow her into a deserted grass park with large-trunked trees. Raveena hides behind one, and the two follow her.
+Session 46: Arc and Kiris determine that the cloaked individual is Janna Furwish.
+Session 46: After the conversation, Janna leaves, prompting Arc and Kiris to action.  The two manage to knock out and capture Raveena.
+Session 46: Kiris assumes Raveena Malandar's identity. He goes back to the Drakon Amphitheater as Raveena and without speaking, announces her leave to the guards. Kiris then messages the Drakon [Seven Up...|party]] to meet him and [Arc at a specific place within Drakon.
+Session 46: The Drakon [Seven Up...|party]] saw [Arc and Kiris carrying Raveena who is bound and unconscious. Djorken is startled, but Kiris manages to convince him that this is the best course to take. Djorken reluctantly agrees, and shares his knowledge of a less-traveled route back to the Ironfleet Compound that would attract the least attention.
+Session 47: Noah spots Arc stealing a purse from a commoner.
+Session 48: Arc scouts the district and finds a three-carriage supply run from Ankyra's Old Castle Compound traveling to Ironfleet Compound. He follows it and he meets Kirren.
+Session 48: Kirren asks Arc where to find Kiris and Kayvan; Arc supplies their location.
+Session 48: The others, except Arc, jumps into the shallow sea to save the two. Arc prepares the boat for an impact from a 5-foot tall wave.
+Session 48: Arc sees a creature made of sand rushing into them. Arc jumps into the shore.
+Session 48: The [Seven Up...|party]] confronts a blacksand-based creature. [Arc, and later the other members of the [Seven Up...|party]], ascertains that the blacksand combusts explosively. The explosion was too strong that the sound it produced reaches [Kiris.
+Session 48: The creature throws Adeena into the sea. Out of options, Thoradin casts a Fireball from his Bloodstone Arcane Gem. The creature explodes, but not without creating a significant damage to the party.
+Session 48: Adikia, Theobald, Adeena and Arc arrives at the Ironfleet Compound. They meet Kirren and Gandour who are talking in the courtyard. Adikia, frustrated about Nokia, walks away from the conversation.
+Session 49: Kiris decides to sleep inKayvan's quarters with Kirren. Before Kiris rests, Thoradin asks Kiris to cast Vortex Warp on the Bloodstone Arcane Gem.
+Session 49: Adikia wakes up before dawn. She wakes the [Seven Up...|party]], but only [Adeena, Theobald and Arc decide to accompany her.
+Session 49: Adikia, Adeena, Theobald, and Arc go to Foenyx. With Theobald guiding them, they arrive at the chapel at Roan Street. However, the chapel is closed still. Arc, Adeena and Theobald separately check the district as Adikia stays on a bench by the chapel doors.
+Session 49: Arc finds a thieves' cant symbol for a black market store. Arc follows it, but he bumps a sketchy halfling in a narrow alleyway. He keeps the 1 cp coin he found from the halfling. The halfling promises to guide Arc to the black market store.
+Session 49: Arc finds a stall in the wall. A masked halfling mans the store. Arc buys 2 packs of caltrops, 10 daggers, a vial of poison, thieves' tools, and 60 arrows for 200 gp.
+Session 49: The halfling guide tugs on Arc, asking for some donatin. Arc gifts 2 gp (and the 1 cp) to the halfling. The masked shopkeeper remarks that Arc is too generous for a thief.
+Session 49: An elvish priest recognizes Arc and Theobald. The priest calls himself Father Drenn.
+Session 49: Adeena, Arc, Adikia and Theobald return to Ironfleet Compound. Theobald, Adikia and Adeena decide to go to check on the dragon appearing in Ankyra's Old Castle Compound.
+Session 49: Splix casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but Elvin persuades the dragon not to worry about it as it poses no threat. Elvin mocks the party. Adikia is irate; sensing a provocation, Mitarella coaxes Adikia:
+"Let them have this day."
+Session 51: Arc ascends the stairs to the second floor. He sees a makeshift camp. Arc checks it, and sees a foot-high pile of books written by Dorfir Embersense. Arc also steals a pack of rations.
+Session 51: Arc scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, Arc determines that the two are Splix's colleagues: Dorfir Embersense and Fiamil.
+Session 51: Arc recovers Theobald's Matunda's Mace, along with a tiara and a hefty amount of gold.
+Session 51: Theobald casts revivify on both Dorfir Embersense and Fiamil Underwood. Arc uses the diamond from the tiara for one cast.
+Session 52: Adikia casts Polymorph on a thrilled Dorfir Embersense. She turns him into a T-rex. Kiris, Fiamil and Splix ride on the polymorphed professor. Adeena and Thoradin cast Find Steed. Arc and Noah walks.

@@ -1,0 +1,25 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Enchor
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for: being the patron deity of [Curkip
+Description
+Enchor is a lesser god attached to the ideals of bravery, honor, and nobility. The city of Curkip reveres the deity.
+Lore Mentions
+Most Recent
+
+All Entries

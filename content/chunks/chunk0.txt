@@ -1,0 +1,41 @@
+share: true
+aliases:
+  Everhealing Goddess
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Aisef
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Everhealing Goddess|
+| Type||
+| Located in | |
+Known for: being the Goddess of Healing
+Description
+Lore Mentions
+Most Recent
+[Session 42: Theobald prays to Aisef.
+Session 45: Theobald is tempted to pray to Aisef, but opts to sleep instead.
+Session 47: Theobald enters the chapel and directs his plea to Aisef. He hears the divine whisper clearer:
+"The Old God will set you free. I will set you free. Trust in me. I will lead you to the truth."
+Session 47: Theobald is thrusted into a vision of the past where Aisef is kneeling in front of a shrine set on an open field. Aisef appears to be kneeling; Theobald observes Aisef in deep conflict about his faith. A woman figure appears to Aisef. Her response mirrors the whisper Theobald heard in the chapel.
+"The truth will set you free. I will set you free."
+Session 49: Theobald visits the Chapel of Aisef in Foenyx. He waits on a priest to consult.
+Session 49: Father Ignatius asks Theobald about the Matunda's Mace. Theobald shares that Stella Kari entrusted it to him before she dies. Theobald remarks that he is unsure of the path he is taking. He shares his vision of Aisef to Father Ignatius.
+
+All Entries
+Session 42: Theobald prays to Aisef.
+Session 45: Theobald is tempted to pray to Aisef, but opts to sleep instead.
+Session 47: Theobald enters the chapel and directs his plea to Aisef. He hears the divine whisper clearer:
+"The Old God will set you free. I will set you free. Trust in me. I will lead you to the truth."
+Session 47: Theobald is thrusted into a vision of the past where Aisef is kneeling in front of a shrine set on an open field. Aisef appears to be kneeling; Theobald observes Aisef in deep conflict about his faith. A woman figure appears to Aisef. Her response mirrors the whisper Theobald heard in the chapel.
+"The truth will set you free. I will set you free."
+Session 49: Theobald visits the Chapel of Aisef in Foenyx. He waits on a priest to consult.
+Session 49: Father Ignatius asks Theobald about the Matunda's Mace. Theobald shares that Stella Kari entrusted it to him before she dies. Theobald remarks that he is unsure of the path he is taking. He shares his vision of Aisef to Father Ignatius.

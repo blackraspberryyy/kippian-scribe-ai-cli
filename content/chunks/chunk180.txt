@@ -1,0 +1,37 @@
+share: true
+aliases:
+  Theo
+gender: male
+race: human
+age: old adult
+alignment: 
+background: 
+location: 
+faction: 
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Theo Clayhollow
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | Theo|
+| Race| human |
+| Gender| male|
+| Age | old adult|
+| Alignment|| 
+| Background| |
+| Location|  |
+| Faction| | 
+Description
+[Theo is Theobald and Theodore's father.
+Relationships
+Theobald's and Theodore's father.
+Rhela's husband.
+Story log
+Most Recent
+
+All Entries

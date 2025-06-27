@@ -1,0 +1,29 @@
+share: true
+aliases: 
+location: "[Kippian]]"
+status: 
+lore_type: location
+icon: map
+Basic Information
+[!infobox]
+Lazagog's Forest
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Kippian|
+Known for:
+Description
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

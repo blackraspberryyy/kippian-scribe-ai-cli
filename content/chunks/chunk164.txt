@@ -1,0 +1,45 @@
+share: true
+aliases:
+  Geraldt
+gender: male
+race: human
+age: adult
+alignment: 
+background: shopkeeper
+location: "Foenyx"
+faction: 
+status: 
+lore_type: character
+icon: character
+Bio
+!infobox]
+Geraldt Dratzel
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Geraldt|
+| Race| human |
+| Gender| male|
+| Age | adult|
+| Alignment|| 
+| Background| shopkeeper|
+| Location|  [Foenyx District|
+| Faction| | 
+Description
+Geraldt Dratzel owns Dratzel's Priestly Goods, a general goods store catered to clerics and priests. It is located in Foenyx.
+Relationships
+Story Log
+Most Recent
+Session 53: The two find a store. They successfully persuade the shopkeeper, Geraldt, to trade Remus' IOU slip for the ivory strips, a harp, a violin, and some strings. The two add 1 sp and a chipped gold from the Aureate Rapier to balance the deal.
+Session 53: Adikia and Kiris sign Geraldt's ledger, claiming that their signatures would attract future customers.
+Session 55: Kiris heads back to Geraldt's store. All stores are closed, so Kiris knocks on one of the houses close to it. A rotund man shows on the upper floor window. After hearing Kiris' pleading, the man and Geraldt shows himself to Kiris. Geraldt leads Kiris to his store.
+Session 55: Geraldt agrees to sell diamond rings worth 750 gp. Geraldt explains that the diamonds in total is worth 500 gp.
+Session 55: Kiris negotiates with Geraldt; he gives the shopkeeper 500 gp and his magic citrine stone in exchange for the diamond rings. After the deal, Kiris heads back to the Chapel of Amlin.
+
+All Entries
+Session 53: The two find a store. They successfully persuade the shopkeeper, Geraldt, to trade Remus' IOU slip for the ivory strips, a harp, a violin, and some strings. The two add 1 sp and a chipped gold from the Aureate Rapier to balance the deal.
+Session 53: Adikia and Kiris sign Geraldt's ledger, claiming that their signatures would attract future customers.
+Session 55: Kiris heads back to Geraldt's store. All stores are closed, so Kiris knocks on one of the houses close to it. A rotund man shows on the upper floor window. After hearing Kiris' pleading, the man and Geraldt shows himself to Kiris. Geraldt leads Kiris to his store.
+Session 55: Geraldt agrees to sell diamond rings worth 750 gp. Geraldt explains that the diamonds in total is worth 500 gp.
+Session 55: Kiris negotiates with Geraldt; he gives the shopkeeper 500 gp and his magic citrine stone in exchange for the diamond rings. After the deal, Kiris heads back to the Chapel of Amlin.

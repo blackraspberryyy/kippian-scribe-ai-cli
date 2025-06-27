@@ -1,0 +1,57 @@
+share: true
+aliases:
+  Professor Aufel
+gender: 
+race: elf
+age: adult
+alignment: 
+background: professor
+location: "[Savras University]]"
+faction: 
+status: 
+lore_type: character
+icon: character
+Bio
+[!infobox]
+Aufel Fernquill
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Professor Aufel|
+| Race| elf |
+| Gender| |
+| Age | adult|
+| Alignment|| 
+| Background| professor|
+| Location|  [Savras University|
+| Faction| | 
+Description
+Relationships
+Professor Aufel is the university colleague of Professor Embersense, Fiamil, and Splix.
+Story Log
+Most Recent
+Session 42: Noah overhears that Professor Aufel and Michaela talking. The professor's there to conduct research within the Ankyra's Old Castle Compound's library that could help with the Yvernus situation.
+Session 42: Splix visits Professor Aufel and asks the professor to teach him an evocation spell. Professor Aufel asks for a thorough inspection of the Ymerald Staff in exchange.
+Session 46: Splix asks Professor Aufel for some guidance on field barrier spells. Professor Aufel tells Splix that Professor Embersense might have knowledge on the matter.
+Session 46: According to Professor Aufel, Professor Embersense is transcribing and translating spells from ancient times, particularly spells from Primordial Ages and Eon of Akenatun's Descent.
+Session 46: Professor Aufel also tells Splix that Professor Embersense took Fiamil as his disciple.
+Session 46: Professor Aufel asks Splix about their deal for him to examine the Ymerald Staff in exchange for a spell. Splix obliges.
+Session 46: After his examination of the Ymerald Staff, Professor Aufel discerns that the driftwood handle and manner of the staff is substandard and less than ideal. More importantly, he gleaned that the affixed emerald gemstone cannot be created using natural nor known magical processes: therefore, it must have an extraterrestrial origin.
+Session 47: Splix splits away from the party to research with Professor Aufel.
+Session 49: Meanwhile, Splix is researching with Professor Aufel back in Ankyra's Old Castle Compound. Splix finds out that what tethers Yvernus to Midkip is a magical tether located in another plane of existence.
+Session 53: Fiamil, Professor Aufel and Professor Embersense, on the other hand, reunite in an adjacent room.
+
+All Entries
+Session 42: Splix spots Professor Aufel and talk to him. During their reunion, Splix showed his professor his Ymerald Staff.
+Session 42: Professor Aufel inspects the staff, and is boggled by it. Splix then shows the Arcanus Labyrinthus. Professor Aufel is understandably confused.
+Session 42: Noah overhears that Professor Aufel and Michaela talking. The professor's there to conduct research within the Ankyra's Old Castle Compound's library that could help with the Yvernus situation.
+Session 42: Splix visits Professor Aufel and asks the professor to teach him an evocation spell. Professor Aufel asks for a thorough inspection of the Ymerald Staff in exchange.
+Session 46: Splix asks Professor Aufel for some guidance on field barrier spells. Professor Aufel tells Splix that Professor Embersense might have knowledge on the matter.
+Session 46: According to Professor Aufel, Professor Embersense is transcribing and translating spells from ancient times, particularly spells from Primordial Ages and Eon of Akenatun's Descent.
+Session 46: Professor Aufel also tells Splix that Professor Embersense took Fiamil as his disciple.
+Session 46: Professor Aufel asks Splix about their deal for him to examine the Ymerald Staff in exchange for a spell. Splix obliges.
+Session 46: After his examination of the Ymerald Staff, Professor Aufel discerns that the driftwood handle and manner of the staff is substandard and less than ideal. More importantly, he gleaned that the affixed emerald gemstone cannot be created using natural nor known magical processes: therefore, it must have an extraterrestrial origin.
+Session 47: Splix splits away from the party to research with Professor Aufel.
+Session 49: Meanwhile, Splix is researching with Professor Aufel back in Ankyra's Old Castle Compound. Splix finds out that what tethers Yvernus to Midkip is a magical tether located in another plane of existence.
+Session 53: Fiamil, Professor Aufel and Professor Embersense, on the other hand, reunite in an adjacent room.

@@ -1,0 +1,29 @@
+share: true
+aliases: 
+location: "[Feywild]]"
+status: 
+lore_type: location
+icon: map
+Basic Information
+[!infobox]
+Feypeak
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Feywild|
+Known for:
+Description
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

@@ -1,0 +1,34 @@
+share: true
+aliases:
+  Ankyra
+location: "Midelia"
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Ankyra District
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Ankyra|
+| Located in | [Midkip|
+Description
+Ankyra is Midelia's oldest district. It houses the Old Castle Compound which also serves as the district's city hall and the Kyp Clan's royal residence.
+
+The district's representative on the High Council is Remus Kyp.
+Notable Locations
+| Name                                                                                  |
+| ------------------------------------------------------------------------------------- |
+| Ankyra's Old Castle Compound |
+
+Notable NPCs
+| Name                                 |
+| ------------------------------------ |
+| Remus Kyp     |
+| Rickard Kyp |
+
+Factions
+| Name |
+| ---- |

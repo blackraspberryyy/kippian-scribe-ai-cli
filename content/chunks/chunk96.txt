@@ -1,0 +1,34 @@
+share: true
+aliases: 
+location: "[Kippian]]"
+status: 
+lore_type: location
+icon: map
+Basic Information
+[!infobox]
+Opidys
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Kippian|
+Known for:
+Description
+Notable Locations
+| Name                                                      |
+| --------------------------------------------------------- |
+| Lake of Shimmers |
+| Qwartz               |
+| Onix                   |
+| Ymerald             |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name                                       |
+| ------------------------------------------ |
+| Kortusk Orcs |

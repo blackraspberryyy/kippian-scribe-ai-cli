@@ -1,0 +1,29 @@
+share: true
+aliases: 
+location: "[Kingdom of United Kippian]]"
+status: 
+lore_type: location
+icon: settlement
+Basic Information
+[!infobox]
+Yelkor
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type | 
+| Located in | [Kingdom of United Kippian|
+Known for:
+Description
+Notable Locations
+| Name |
+| ---- |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

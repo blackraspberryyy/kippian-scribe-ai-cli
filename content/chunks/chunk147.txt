@@ -1,0 +1,84 @@
+share: true
+aliases:
+  Zagi
+  Grand Magus of Opidys
+  Ymerald Evoker
+gender: male
+race: human
+age: old adult
+alignment: 
+background: wizard
+location: "Opidys"
+faction: 
+status: dead
+lore_type: character
+icon: character
+Bio
+!infobox]
+Zerrus Zagi
+cover hsmall
+Bio
+|  |  |
+| ---- | ---- |
+| Aliases | Zagi,Grand Magus of Opidys,Ymerald Evoker|
+| Race| human |
+| Gender| male|
+| Age | old adult|
+| Alignment|| 
+| Background| wizard|
+| Location|  [Opidys|
+| Faction| | 
+Description
+The desert nomads of Opidys are known for their reckless and aggressive use of arcane power. Zerrus Zagi, the Grand Magus of Opidys, was said to be the epitome of an Opidian mage. His arcane mastery garnered enough reputation even among the high elven mages of Ephelus who were considered to be the authority on all forms of magic.
+
+During The Great War, King Agustus bid for the service of the Grand Magus in exchange for the liberation of the lands of Opidys. It was an unpopular decision, but it soon proved to be the correct one: Zerrus Zagi returned to Kippian a hero, and in time a loyal ally, of the King of United Kippian and its people.
+Keeper of the Ymerald Staff
+Zagi was able to call on the power of the skies and stars by channeling his arcane energy through the Ymerald Staff. The Ymerald Staff, which was found deep within the Lake of Shimmers, was imbued with great power both earthly and otherworldly. Only Zagi had the strength and wits to control such maddening power. During The Great War, it became obvious that Zerrus Zagi, the Ymerald Evoker, is among the greatest wizards who have ever lived.
+Legacy
+The sixth month, Zagi, is named after Zerrus Zagi.
+Lore Mentions
+Excerpt from the Magi of Opidys
+"Magus Zagi is worth a whole army. If need be, give in to his demands. We have a war to win."
+–King Agustus Kyp
+
+For a time Zerrus Zagi was known to be a mad wizard. Kippians were wary of the Opidians and their magic: it was irregular, and in some cases even cultic. Zagi was the Grand Magus of Opidys, and mages from all over Kippian who dared to subdue Zagi went back humbled by the Opidian mage.
+But the great war came, and the elven leaders of Ephelus decided to seek the help of the Opidians. Through King Agustus, Zagi gained Opidys its sovereignty in exchange for his service in the war. There were doubts, especially from the elven warmages, but the moment Zagi descended from the Kippian ship, the tide of war began to shift. All doubts were erased: the Ymerald Evoker was worth much, much more than what he had bargained for.
+–excerpt from The Magi of Opidys
+Story Log
+Most Recent
+Session 13: Thoradin read a book about [Opidys]]. There he read about [Zerrus Zagi, the mad mage.
+Session 38: In a vision, Spekid Frostborn appears to Kiris.
+The serious sorcerer evokes a mild chuckle,
+"I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+Then, Spekid draws the sigil of the Northern Frost on Kiris' forehead. He then doffs the Frostborn Armor.
+"But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and Zerrus Zagi's power."
+Session 38: After turning the dial, they see the vision of Spekid Frostborn fighting Zerrus Zagi in the arena.
+Session 38: During exploration, Arc sees a statue of Zerrus Zagi. The inscription says,
+The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
+Session 39: The party encounters a door with the following inscription:
+Beyond these doors are Guardians of Ice and Fire. Constructed by the great mages, Zagi and Spekid, these constructs guard the hallowed hall within...
+Session 40: Theobald finds some notes detailing the construction of the Guardians of Ice and Fire by Zerrus Zagi and Spekid Frostborn.
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the Hall of Akenatun from the labyrinthus.
+Session 40: Arc discovers the statue that tells the discovery of the Scepter of Akenatun by Zerrus Zagi and Spekid Frostborn.
+Session 41: Apparitions of Zerrus Zagi and Spekid Frostborn appears in front of the party.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."
+
+All Entries
+Session 13: Thoradin read a book about [Opidys]]. There he read about [Zerrus Zagi, the mad mage.
+Session 38: In a vision, Spekid Frostborn appears to Kiris.
+The serious sorcerer evokes a mild chuckle,
+"I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+Then, Spekid draws the sigil of the Northern Frost on Kiris' forehead. He then doffs the Frostborn Armor.
+"But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and Zerrus Zagi's power."
+Session 38: After turning the dial, they see the vision of Spekid Frostborn fighting Zerrus Zagi in the arena.
+Session 38: During exploration, Arc sees a statue of Zerrus Zagi. The inscription says,
+The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
+Session 39: The party encounters a door with the following inscription:
+Beyond these doors are Guardians of Ice and Fire. Constructed by the great mages, Zagi and Spekid, these constructs guard the hallowed hall within...
+Session 40: Theobald finds some notes detailing the construction of the Guardians of Ice and Fire by Zerrus Zagi and Spekid Frostborn.
+Within the Guardians of Ice and Fire are the keys to disabling the barrier that separates the Hall of Akenatun from the labyrinthus.
+Session 40: Arc discovers the statue that tells the discovery of the Scepter of Akenatun by Zerrus Zagi and Spekid Frostborn.
+Session 41: Apparitions of Zerrus Zagi and Spekid Frostborn appears in front of the party.
+Session 41: Zerrus Zagi and Spekid Frostborn imparts their power to Splix and Kiris through the Ymerald Staff and the Frostborn Armor.
+"Tough times are ahead, but with our power, we hope that you can prevail."

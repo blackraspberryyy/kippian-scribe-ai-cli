@@ -1,0 +1,39 @@
+share: true
+aliases:
+  Kippian
+location: 
+status: 
+lore_type: location
+icon: map
+Basic Information
+!infobox]
+Kippian
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | Kippian|
+| Type | 
+| Located in | |
+Known for:
+Description
+Map
+cover
+Notable Locations
+| Name                                                                           |
+| ------------------------------------------------------------------------------ |
+| [Lazagog's Forest                      |
+| Stonethorn Mountains              |
+| Yorvengarde Mountains            |
+| Kingdom of United Kippian |
+| Elven Kingdom of Ephelus   |
+| Opidys                                       |
+| Wycroft Mountain Kingdom   |
+
+Notable NPCs
+| Name |
+| ---- |
+
+Factions
+| Name |
+| ---- |

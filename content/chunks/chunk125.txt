@@ -1,0 +1,39 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Age of Humans
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Known for:
+Description
+[Miledu created humans and uses them to wage war against the other beings.
+Lore Mentions
+Most Recent
+Session 42: Noah reads her translation book for primordial language. She became privy to the chronological succession of the Primordial Ages.
+The chronological list of the Primordial Ages:
+Age of the Old Gods
+Age of Dragons
+Age of Beasts
+Age of Orcs
+Age of Humans
+
+All Entries
+Session 42: Noah reads her translation book for primordial language. She became privy to the chronological succession of the Primordial Ages.
+The chronological list of the Primordial Ages:
+Age of the Old Gods
+Age of Dragons
+Age of Beasts
+Age of Orcs
+Age of Humans

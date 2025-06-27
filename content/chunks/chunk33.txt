@@ -1,0 +1,50 @@
+share: true
+aliases:
+  airship
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: item
+icon: lore
+Basic Information
+!infobox]
+Bloated Dragon
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | airship|
+| Type|item|
+| Located in | |
+Description
+Built by the ever-busy [Gandour of the Ironfleet Clan, the Bloated Dragon is the first ever airship created in Kippian's history.
+Lore Mentions
+Current Passengers
+Party
+Gandour
+2 Airship engineers
+Story Log
+Most Recent
+Session 50: Kiris wins the competition. The airship is formally named as the Bloated Dragon.
+Session 50: The party inspects the Bloated Dragon's decks.
+Session 50: Just as the party is about to ride the Bloated Dragon, Splix returns bearing a message from Savras University about Professor Embersense's location. Professor Embersense and his apprentice, Fiamil, are currently researching an ancient structure resurfacing from the sea. Splix suggests a destination to Gandour, and the latter accepts.
+Session 50: The flight proves uneventful, which was good news to the party. However, the Bloated Dragon is slow.
+Session 51: Adeena asks Dorfir Embersense about a spell that could protect the Bloated Dragon from magical attacks. Dorfir Embersense recalls that an artifact of sorts protects Asteri District. The party informs him that the district is devastated during the Assault on Asteri.
+Session 51: The party realizes that the Bloated Dragon is nowhere to be found.
+Session 52: Along the way, the party spots the Bloated Dragon. They manage to catch its attention, thanks to a loud roar from Dorfir Embersense.
+Session 52: The Bloated Dragon descends, and Gandour Ironfleet meets them. He explains that the party was gone for nearly two days. The party concludes that entering the Library must have induced another temporal anomaly.
+Session 52: The party notices that Gandour is hiding something. Gandour, upon being questioned, tells the party that they must not judge him. They ascend on the Bloated Dragon's lower deck and see Janna Furwish waiting for them.
+"Lucky that you are all alive..."
+
+All Entries
+Session 50: Kiris wins the competition. The airship is formally named as the Bloated Dragon.
+Session 50: The party inspects the Bloated Dragon's decks.
+Session 50: Just as the party is about to ride the Bloated Dragon, Splix returns bearing a message from Savras University about Professor Embersense's location. Professor Embersense and his apprentice, Fiamil, are currently researching an ancient structure resurfacing from the sea. Splix suggests a destination to Gandour, and the latter accepts.
+Session 50: The flight proves uneventful, which was good news to the party. However, the Bloated Dragon is slow.
+Session 51: Adeena asks Dorfir Embersense about a spell that could protect the Bloated Dragon from magical attacks. Dorfir Embersense recalls that an artifact of sorts protects Asteri District. The party informs him that the district is devastated during the Assault on Asteri.
+Session 51: The party realizes that the Bloated Dragon is nowhere to be found.
+Session 52: Along the way, the party spots the Bloated Dragon. They manage to catch its attention, thanks to a loud roar from Dorfir Embersense.
+Session 52: The Bloated Dragon descends, and Gandour Ironfleet meets them. He explains that the party was gone for nearly two days. The party concludes that entering the Library must have induced another temporal anomaly.
+Session 52: The party notices that Gandour is hiding something. Gandour, upon being questioned, tells the party that they must not judge him. They ascend on the Bloated Dragon's lower deck and see Janna Furwish waiting for them.
+"Lucky that you are all alive..."

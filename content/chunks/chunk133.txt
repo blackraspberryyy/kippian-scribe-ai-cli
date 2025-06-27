@@ -1,0 +1,51 @@
+share: true
+aliases: 
+characters: 
+location: 
+fc-date: 
+fc-category: Lore
+lore_type: 
+icon: lore
+Basic Information
+!infobox]
+Primordial Ages
+cover hsmall
+Information
+|   |  |
+| ---- | ---- |
+| Other names | |
+| Type||
+| Located in | |
+Description
+The [Primordial Ages are ages bookended by the world's creation and Akenatun's descent. Majority of Old God myths are contained within the events of the Primordial Ages.
+Timeline
+The Primordial Ages is chronologically divided into the following five ages:
+Age of the Old Gods
+Age of Dragons
+Age of Beasts
+Age of Orcs
+Age of Humans
+Lore Mentions
+Most Recent
+Session 42: Noah reads her translation book for primordial language. She became privy to the chronological succession of the Primordial Ages.
+The chronological list of the Primordial Ages:
+Age of the Old Gods
+Age of Dragons
+Age of Beasts
+Age of Orcs
+Age of Humans
+Session 46: According to Professor Aufel, Professor Embersense is transcribing and translating spells from ancient times, particularly spells from Primordial Ages and Eon of Akenatun's Descent.
+Session 51: The ancient structure's doors opens to a small and narrow stone pathway. Thoradin determines that the structure is very old, and probably dates back from Primordial Ages.
+Session 51: Splix reads a scroll that retells the major events that happened during the Primordial Ages.
+
+All Entries
+Session 42: Noah reads her translation book for primordial language. She became privy to the chronological succession of the Primordial Ages.
+The chronological list of the Primordial Ages:
+Age of the Old Gods
+Age of Dragons
+Age of Beasts
+Age of Orcs
+Age of Humans
+Session 46: According to Professor Aufel, Professor Embersense is transcribing and translating spells from ancient times, particularly spells from Primordial Ages and Eon of Akenatun's Descent.
+Session 51: The ancient structure's doors opens to a small and narrow stone pathway. Thoradin determines that the structure is very old, and probably dates back from Primordial Ages.
+Session 51: Splix reads a scroll that retells the major events that happened during the Primordial Ages.

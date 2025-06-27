@@ -1,0 +1,74 @@
+share: true
+aliases: 
+gender: male
+race: halfling
+age: young adult
+alignment: 
+background: thief
+location: "[Curkip]]"
+faction: "[Curkip Thieves Guild"
+status: ally
+lore_type: character
+icon: character
+Bio
+!infobox]
+Olrac
+cover hsmall
+Bio
+| Type | Stat |
+| ---- | ---- |
+| Aliases | |
+| Race| halfling |
+| Gender| male|
+| Age | young adult|
+| Alignment|| 
+| Background| thief|
+| Location|  [Curkip|
+| Faction| Curkip Thieves Guild| 
+Description
+Nos-Aji's assistant
+Olrac is an arcane rogue who is trained by Nos-Aji. He tends to be clumsy when he is laxed, but extremely effective when it counts.
+Known spells
+Olrac knows a bit of utility spells such as Sending and Jump.
+Relationships
+Olrac is a member of the Curkip Thieves Guild. As with Nos-Aji, he became close to the party due to his obligation to the guild.
+Story log
+Most Recent
+Session 1: Receive words from Olrac (through sending) and Nos-Aji. Messenger pigeon died.
+Session 1: Sending contains information that Nos-aji is already at Midkip. Nos has discovered a powerful cult embedded into the influential houses of Kippian.
+!quote|mark(Olrac.md)
+This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
+Session 2: Olrac replies:
+!quote|mark(Olrac.md)
+Sorry for late reply. Can only use  Sending spell once a day. We can handle Curkip. No contact with Nos, deep cover. Trust your instincts.
+Session 7: Olrac messages the party:
+!quote|mark(Olrac.md)
+What happened in Bulkip? Intel says the road to Midkip is treacherous. Nos needs help; find him in Lykos District.
+Session 7: Olrac replies the next day:
+!quote|mark(Olrac.md)
+For a quick way to Midkip, go through the Veiled Woods northwest of Hilkor. It cuts travel time by two days. Be careful, dangerous.
+Session 44: Meeting with Gandour, Nos, Olrac, Dello, Djorken and Augustus.
+Session 44: Mitarella, Kirren, and Kayvan could not recognize the face. However, Nos and Olrac shares that they have seen that face before.
+Session 44: Curiously, Nos and Olrac cannot remember the man's name.
+Session 48: Adeena asks Olrac, who is arguing with a servant outside, where to source gloompowder. Olrac directs Adeena to Nos.
+Session 49: The party meets with Gandour, Kirren, Kayvan Djorken, Nos-Aji, and Olrac.
+
+All Entries
+Session 1: Receive words from Olrac (through sending) and Nos-Aji. Messenger pigeon died.
+Session 1: Sending contains information that Nos-aji is already at Midkip. Nos has discovered a powerful cult embedded into the influential houses of Kippian.
+!quote|mark(Olrac.md)
+This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
+Session 2: Olrac replies:
+!quote|mark(Olrac.md)
+Sorry for late reply. Can only use  Sending spell once a day. We can handle Curkip. No contact with Nos, deep cover. Trust your instincts.
+Session 7: Olrac messages the party:
+!quote|mark(Olrac.md)
+What happened in Bulkip? Intel says the road to Midkip is treacherous. Nos needs help; find him in Lykos District.
+Session 7: Olrac replies the next day:
+!quote|mark(Olrac.md)
+For a quick way to Midkip, go through the Veiled Woods northwest of Hilkor. It cuts travel time by two days. Be careful, dangerous.
+Session 44: Meeting with Gandour, Nos, Olrac, Dello, Djorken and Augustus.
+Session 44: Mitarella, Kirren, and Kayvan could not recognize the face. However, Nos and Olrac shares that they have seen that face before.
+Session 44: Curiously, Nos and Olrac cannot remember the man's name.
+Session 48: Adeena asks Olrac, who is arguing with a servant outside, where to source gloompowder. Olrac directs Adeena to Nos.
+Session 49: The party meets with Gandour, Kirren, Kayvan Djorken, Nos-Aji, and Olrac.
