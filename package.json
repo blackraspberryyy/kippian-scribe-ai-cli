@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "ollama-create": "ollama create KippianScribe",
+    "ollama-serve": "ollama serve",
+    "chromadb": "docker run -p 8000:8000 chromadb/chroma",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
