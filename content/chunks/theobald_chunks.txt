@@ -1,17 +1,149 @@
-Theobald Clayhollow is an optimistic, delightful, and wholesome elderly cleric who resides in Effil. He has devoted his life to the goddess Aisef, the deity of healing. He used to preach from the Temple of Aisef, but later chose to serve in the Effil Orphanage as a Lifetender, using his divine gifts to heal sick children.
+[Chunk 1]
+Theobald Clayhollow is an elderly human cleric known for his optimism and wholesome demeanor. He resides in Effil and is recognized as a devout follower of Aisef, the Goddess of Healing.
 
-Theobald often tells bedtime stories to the orphans, usually about Aisef. Over time, his stories became repetitive. One night, a little girl in pajamas asked, "Grandpa Theo, do you have any other stories other than the Everhealing Goddess? Maybe something that you did yourself?"
+[Chunk 2]
+He once served at the Temple of Aisef in Effil, preaching her words, performing rites, and healing the sick and injured over a span of decades.
 
-Theobald was born in Yelkor, a town near Curkip. His parents, Theo and Rhela, owned a clayware business. Together with his older brother Theodore, they traveled across Kippian selling pots, bowls, and cups. Theodore led the caravan while Theobald acted as the merchant and speaker.
+[Chunk 3]
+Eventually, Theobald moved to the Effil Orphanage to become a Lifetender, focusing his healing abilities on caring for sick and injured children.
 
-One fateful journey through the woods, the brothers were attacked by dire wolves. Theodore was severely mauled while protecting their caravan. Theobald, paralyzed by fear, stayed hidden. Desperate, he prayed for help. A divine voice answered: "Theobald, son of Theo, worry not, for I hear you."
+[Chunk 4]
+In his role at the orphanage, Theobald would tell bedtime stories about Aisef and her teachings to inspire the children.
 
-The pendant Theobald wore began to glow. He raised his hand, and divine light surged forth, scaring the wolves away. He placed his hand on Theodore's wounds, and they began to heal miraculously. This moment sparked Theobald’s transformation into a devout follower of Aisef.
+[Chunk 5]
+Over time, the stories he told became repetitive to the children, leading them to ask for new tales.
 
-That night, Theobald received a vision from Aisef. The next morning, he told his parents, “I finally know my purpose. I am going to Effil to preach Aisef. Aisef needs me.” He asked his mother to care for Theodore and left home, setting off to fulfill his divine calling.
+[Chunk 6]
+One night, a little girl in pajamas asked him if he had any stories of his own adventures, rather than just stories about Aisef.
 
-Theobald served in Effil for 40 years, preaching, healing, and performing sacred rites in Aisef's name. When an orphanage was built nearby, he began ministering to the children. He became a permanent resident, treating the sick and offering miracles that deepened the children’s faith.
+[Chunk 7]
+Theobald replied that he had never been on an adventure but promised to tell her the most epic story of her life someday.
 
-One night, as the little girl begged for a new story, Theobald said, “I haven’t been on an adventure before. But if you brush your teeth and go to bed early, I promise to tell you the most epic story of your life. I’m not sure when, but you’ll be the first to hear it!”
+[Chunk 8]
+Theobald’s origins trace back to Yelkor, a town on the outskirts of Curkip.
 
-Soon after, Theobald departed for Curkip, seeking his first adventure. Though unsure what trials awaited him, he held strong faith that Aisef would guide his path, just as she had done all those years ago in the forest.
+[Chunk 9]
+His parents, Theo and Rhela Clayhollow, ran a successful clayware business selling pots, bowls, and cups.
+
+[Chunk 10]
+Theobald and his older brother Theodore helped in the family business as traveling merchants.
+
+[Chunk 11]
+Theodore would helm the caravan while Theobald sold goods to locals during their travels.
+
+[Chunk 12]
+The business required frequent travel around Kippian, sometimes without their father accompanying them.
+
+[Chunk 13]
+While traveling south of the Yorvengarde Mountains, the brothers encountered a pack of hungry dire wolves.
+
+[Chunk 14]
+The wolves attacked, targeting Theodore’s horse and causing both to fall to the ground.
+
+[Chunk 15]
+Half the wolves attacked Theodore while the others tore into the horse.
+
+[Chunk 16]
+The wolves ripped off Theodore’s right leg and arm, carrying the arm away like a trophy.
+
+[Chunk 17]
+Theobald stayed hidden inside the caravan during the attack, terrified and unsure what to do.
+
+[Chunk 18]
+In desperation, Theobald prayed for relief for his brother, calling out to any who would hear.
+
+[Chunk 19]
+A female voice answered his prayer, assuring him she had heard him.
+
+[Chunk 20]
+Theobald realized he was holding a glowing pendant with a curious symbol.
+
+[Chunk 21]
+Divine energy traveled from the pendant into his hand.
+
+[Chunk 22]
+He raised his hand, releasing a burst of bright light that scared away the wolves.
+
+[Chunk 23]
+Theobald placed his hand on Theodore’s wounds, which sealed instantly through divine healing.
+
+[Chunk 24]
+Carrying Theodore back to Yelkor, Theobald entrusted his brother to the care of their parents.
+
+[Chunk 25]
+That night, Theobald received a vision from Aisef, revealing his purpose.
+
+[Chunk 26]
+He told his parents that Aisef had relieved Theodore’s pain and that he must go to Effil to serve her.
+
+[Chunk 27]
+For forty years, Theobald served at the Temple of Aisef, preaching, healing, and making offerings.
+
+[Chunk 28]
+When an orphanage was built near the temple, he began preaching to the children there.
+
+[Chunk 29]
+The children at the orphanage often witnessed his divine miracles, strengthening their faith.
+
+[Chunk 30]
+Over time, Theobald decided to live permanently at the orphanage to better care for the children.
+
+[Chunk 31]
+Theobald found joy and fulfillment in his life at the orphanage.
+
+[Chunk 32]
+The little girl’s request for new stories inspired him to leave Effil in search of adventure.
+
+[Chunk 33]
+He traveled to Curkip without knowing exactly what ordeals awaited him, confident Aisef would guide him.
+
+[Chunk 34]
+Theobald’s family includes his parents, Theo and Rhela Clayhollow, and his brother Theodore.
+
+[Chunk 35]
+He is a member of the adventuring group “Seven Up,” which includes Adikia Unalome, Adeena Oberon, Arc, Thoradin Goodman, Noah Skie, Kiris Acquermann, and Splix.
+
+[Chunk 36]
+In his adventures, Theobald has healed civilians, including using Lesser Restoration to save eight Yvernus District residents.
+
+[Chunk 37]
+He has assisted in major events such as solving riddles that revealed hidden passages.
+
+[Chunk 38]
+During one mission, he offered Matunda’s Mace to a sphinx in exchange for the party’s freedom.
+
+[Chunk 39]
+The sphinx accepted the offer but only freed Theobald, Splix, and Fiamil.
+
+[Chunk 40]
+Arc later recovered Matunda’s Mace along with other treasures.
+
+[Chunk 41]
+Theobald has cast Revivify on fallen comrades, including Dorfir Embersense and Fiamil Underwood.
+
+[Chunk 42]
+He used Stone Shape to repair cracks in a petrified statue.
+
+[Chunk 43]
+He has participated in large-scale construction efforts, such as helping to build an airship.
+
+[Chunk 44]
+Theobald has faced moments of doubt and conflict in his faith.
+
+[Chunk 45]
+In a vision, he saw Aisef in deep conflict, kneeling before a shrine in an open field.
+
+[Chunk 46]
+A mysterious woman appeared to Aisef, offering words that mirrored divine whispers Theobald had heard.
+
+[Chunk 47]
+The woman bore the symbol of Matunda, the Old God of life and death.
+
+[Chunk 48]
+She told Theobald, “The truth will set you free. You are destined for greater things.”
+
+[Chunk 49]
+Theobald shared this vision with Father Ignatius, expressing his uncertainty about his path.
+
+[Chunk 50]
+Despite moments of doubt, Theobald continues to serve Aisef while pursuing the truth about his destiny.

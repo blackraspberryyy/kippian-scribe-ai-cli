@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="JGbC6DiiumPCQwYz70eB">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="264" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WB7ufB3GGsllUWm0KeXR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WB7ufB3GGsllUWm0KeXR-1" target="WB7ufB3GGsllUWm0KeXR-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WB7ufB3GGsllUWm0KeXR-1" value="Read the Markdown files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="72" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UVy5msIEOZQP5wrI2vwa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WB7ufB3GGsllUWm0KeXR-2" target="UVy5msIEOZQP5wrI2vwa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WB7ufB3GGsllUWm0KeXR-2" value="Convert these Markdowns to AI-readable and semantic chunks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="72" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UVy5msIEOZQP5wrI2vwa-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Kippian AI&lt;/h1&gt;&lt;p&gt;Breaking down the process&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="42" y="10" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UVy5msIEOZQP5wrI2vwa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVy5msIEOZQP5wrI2vwa-2" target="UVy5msIEOZQP5wrI2vwa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UVy5msIEOZQP5wrI2vwa-2" value="Feed these chunks to AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UVy5msIEOZQP5wrI2vwa-4" value="Voila" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

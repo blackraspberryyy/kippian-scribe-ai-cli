@@ -26,6 +26,14 @@
 
 3. Finally, ask your question! `node index.js ask "what do you know about Kippian?"`.
 
+Run `node index.js --help` for more information.
+
+## Notes
+1. As you can see in `chunks/`, it's only theobald. Ideally, each markdown files from Kippian Wiki should have a semantic chunks like that. 
+
+You can easily do that with Chat GPT. But it's laborious if there are, as of the moment, 224 markdown files to be read.
+
+
 ## TODO:
 1. further improve the data fed to AI. Right now it's a cluster-F so AI really can't discern related terms.
 2. Bug. I need to always embed before getting a result from the model. It should work without embedding.

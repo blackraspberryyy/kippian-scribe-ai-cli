@@ -42,10 +42,14 @@ yargs(hideBin(process.argv))
   .parse();
 
 async function getCollection(client, name) {
+  verboseLog(styleText('white', `> Getting the collection named: ${name}`));
   let collection = null;
   try {
+    verboseLog(styleText('white', `> Trying to create collection named: ${name}`));
     collection = await client.createCollection({ name });
   } catch (e) {
+    verboseLog(styleText('white', `> "${name}" collection cannot be created. It may have been created before.`));
+    verboseLog(styleText('white', `> Retrieving collection named: "${name}"`));
     // if it fails, get the already existing collection
     collection = await client.getCollection({ name });
   }
@@ -122,58 +126,4 @@ async function embed() {
   verboseLog(styleText('white', `> Starting to embed chunks from: "${OLLAMA_OUTPUT_PATH}"`));
   await embedChunks(ollama, collection, EMBEDDING_MODEL, OLLAMA_OUTPUT_PATH);
   verboseLog(styleText('white', `> Done embedding.`));
-  
 }
-
-
-
-// const argv = yargs(hideBin(process.argv)).parse();
-// const isVerbose = argv.verbose;
-
-// (async () => {
-//   // constants
-//   const MODEL_NAME = "KippianScribe";
-//   const USER_ROLE = "user";
-//   const COLLECTION_NAME = "kippian_scribe_collection";
-//   const EMBEDDING_MODEL = "nomic-embed-text";
-//   const OLLAMA_OUTPUT_PATH =  path.resolve('ollama', 'output');
-  
-//   // connect to a vector database (chromaDB)
-//   isVerbose && console.log(styleText('white', `> Connecting to ChromaDB with collection name \`${COLLECTION_NAME}\`...`));
-//   const client = new ChromaClient();
-//   let collection = await getCollection(client, COLLECTION_NAME);
-  
-//   if (argv.embed) {
-//     isVerbose && console.log(styleText('white', `> Deleting the collection's data first.`));
-//     await client.deleteCollection({name: COLLECTION_NAME}); // delete all existing data, as we will be updating the embeddings.
-//     collection = await getCollection(client, COLLECTION_NAME);
-    
-//     // get embeddings of the provided chunks, then save it to chromaDB
-//     isVerbose && console.log(styleText('white', `> Starting to embed chunks from: "${OLLAMA_OUTPUT_PATH}"`));
-//     await embedChunks(ollama, collection, EMBEDDING_MODEL, OLLAMA_OUTPUT_PATH);
-//     isVerbose && console.log(styleText('white', `> Done embedding.`));
-
-//   }
-
-//   // generate an embedding for the input and retrieve the most relevant doc
-//   isVerbose && console.log(styleText('white', `> Getting information from ChromaDB`));
-//   const inputEmbedding = await ollama.embeddings({
-//     model: EMBEDDING_MODEL,
-//     prompt: argv.ask
-//   });
-//   const results = await collection.query({
-//     queryEmbeddings: [inputEmbedding.embedding],
-//     nResults: 1
-//   });
-//   const userAsks = results['documents'][0][0]
-
-//   // ask our scribe what has being asked.
-//   isVerbose && console.log(styleText('white', `> Asking the "${MODEL_NAME}" now.`));
-//   const response = await ollama.chat({
-//     model: MODEL_NAME,
-//     messages: [
-//       { role: USER_ROLE, content: `Using this data: ${userAsks}. Respond to this prompt: ${argv.ask}` }
-//     ],
-//   })
-//   console.log(styleText('green', `Got it!${response.message.content}`));
-// })()
