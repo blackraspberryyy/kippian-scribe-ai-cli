@@ -29,7 +29,7 @@
 Run `node index.js --help` for more information.
 
 ## Notes
-1. As you can see in `chunks/`, it's only theobald. Ideally, each markdown files from Kippian Wiki should have a semantic chunks like that. 
+As you can see in `chunks/`, it's only theobald. Ideally, each markdown files from Kippian Wiki should have a semantic chunks like that. 
 
 You can easily do that with Chat GPT. But it's laborious if there are, as of the moment, 224 markdown files to be read.
 
